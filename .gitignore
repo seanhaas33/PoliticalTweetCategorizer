@@ -1,0 +1,28 @@
+# CRITICAL: Private credentials and API keys (NEVER upload these!)
+.env
+*.env
+secrets.toml
+config.json
+
+# Python runtime cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments (dependencies should be installed via requirements.txt instead)
+venv/
+.venv/
+env/
+
+# Data files
+# Uncomment the lines below if your local CSV files get too large
+# or contain raw, uncleaned data that shouldn't be tracked.
+# Leave them commented out if 'gold_test_set.csv' is small and needs to be shared with teammates.
+# *.csv
+# *.json
+
+# System-specific temporary files
+.DS_Store
+Thumbs.db
