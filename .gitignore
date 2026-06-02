@@ -26,3 +26,6 @@ env/
 # System-specific temporary files
 .DS_Store
 Thumbs.db
+
+# Ignore the full large cleaned dataset
+cleaned_all_data.parquet
