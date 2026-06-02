@@ -27,5 +27,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore the full large cleaned dataset
+# Ignore all pipeline outputs
 cleaned_all_data.parquet
+balanced_test_sample.csv
