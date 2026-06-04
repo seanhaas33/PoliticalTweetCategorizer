@@ -1,0 +1,7 @@
+# Sean's additional dependencies
+# Install with: pip install -r requirements_sean.txt
+#
+# These extend Junda's requirements.txt — you need both.
+# Junda's file already covers: pandas, numpy, pyarrow, huggingface_hub, etc.
+
+anthropic>=0.25.0
