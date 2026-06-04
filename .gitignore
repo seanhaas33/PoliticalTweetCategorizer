@@ -26,3 +26,7 @@ env/
 # System-specific temporary files
 .DS_Store
 Thumbs.db
+
+# Ignore all pipeline outputs
+cleaned_all_data.parquet
+balanced_test_sample.csv
