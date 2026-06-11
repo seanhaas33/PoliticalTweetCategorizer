@@ -1,0 +1,1560 @@
+date,username,text,party,labels,year,era,is_edge_case,pred_leaning,pred_stance,confidence,reasoning,raw_response,parse_error
+2022-08-02 02:25:08,RepLoudermilk,"[1/2] The killing of Ayman Al Zawahiri, the current leader of al Qaeda, and a man who helped plan 9/11, makes the world safer.",Republican,0,2022,biden-era,False,Democrat,Establishment,72,"The tweet celebrates a successful counterterrorism operation by the Biden administration, reflecting establishment Democratic support for military/intelligence operations against terrorist threats.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet celebrates a successful counterterrorism operation by the Biden administration, reflecting establishment Democratic support for military/intelligence operations against terrorist threats.""
+}",False
+2022-10-27 14:58:56,RepAndyKimNJ,"Four years ago, hate and violence stole 11 lives at a Pittsburgh synagogue.
+
+We cannot pretend antisemitism only li…",Democrat,1,2022,biden-era,False,Democrat,Establishment,75,"The tweet addresses antisemitism and hate violence with concern for community safety, themes commonly emphasized by Democratic senators in their advocacy messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet addresses antisemitism and hate violence with concern for community safety, themes commonly emphasized by Democratic senators in their advocacy messaging.""
+}",False
+2021-03-30 00:02:41,SenMarkey,. at St. Vincent Hospital have been on the front line of this pandemic and now they are on strike because corporate giant Tenet Healthcare is ignoring their pleas for safe staffing. They need our solidarity now more than ever.,Democrat,1,2021,biden-era,False,Democrat,Populist,85,"The tweet criticizes a large corporation (Tenet Healthcare) for labor practices and expresses solidarity with striking workers, reflecting populist Democratic priorities around workers' rights and corporate accountability.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes a large corporation (Tenet Healthcare) for labor practices and expresses solidarity with striking workers, reflecting populist Democratic priorities around workers' rights and corporate accountability.""
+}",False
+2021-05-27 21:18:07,CoryBooker,"When faced with unprecedented challenges, America has come together to do extraordinary things. We can all be part of that incredible history. Get vaccinated today.",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"The tweet emphasizes public health messaging about vaccination and appeals to collective action and unity, which aligns with Democratic messaging patterns on COVID-19 response.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes public health messaging about vaccination and appeals to collective action and unity, which aligns with Democratic messaging patterns on COVID-19 response.""
+}",False
+2021-07-30 14:24:35,SenatorHagerty,"Read my op-ed today in  Americans, Not Government, Are the Arbiters of Truth",Republican,0,2021,biden-era,False,Republican,Populist,75,"The phrase 'Americans, Not Government, Are the Arbiters of Truth' reflects a populist, anti-government stance characteristic of Republican messaging that emphasizes individual liberty over state authority.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The phrase 'Americans, Not Government, Are the Arbiters of Truth' reflects a populist, anti-government stance characteristic of Republican messaging that emphasizes individual liberty over state authority.""
+}",False
+2021-12-25 03:07:57,RogerMarshallMD,"Despite the recent hardships in Paradise, KS, it still looks like Christmas:",Republican,0,2021,biden-era,False,Republican,Establishment,45,"The tweet appears to be a generic, non-partisan expression of holiday sentiment tied to a Kansas location, with minimal ideological content to definitively classify, but the conservative framing of resilience and traditional values slightly suggests Republican authorship.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet appears to be a generic, non-partisan expression of holiday sentiment tied to a Kansas location, with minimal ideological content to definitively classify, but the conservative framing of resilience and traditional values slightly suggests Republican authorship.""
+}",False
+2021-07-30 12:00:00,SenKevinCramer,"Excellent news out of  this week! We voted to advance several bills Ive been working on which would help WWII veterans, veterans in rural areas, veterans transitioning back into civilian life, and more. Get the details here",Republican,0,2021,biden-era,False,Republican,Establishment,65,"Focus on veterans' issues and legislative accomplishments is bipartisan, but the framing of advancement through committee votes and specific veteran service programs aligns more with Republican veterans' advocacy priorities.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on veterans' issues and legislative accomplishments is bipartisan, but the framing of advancement through committee votes and specific veteran service programs aligns more with Republican veterans' advocacy priorities.""
+}",False
+2021-03-17 16:19:41,SenShelby,"As we state in the letter, the Presidents actions directly contributed to this unfortunate, yet entirely avoidable, scenario, and are a blatant violation of federal law and infringe on Congresss constitutional power of the purse.",Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet criticizes presidential overreach and asserts Congressional authority, which is a common Republican argument against executive power expansion, particularly regarding spending.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet criticizes presidential overreach and asserts Congressional authority, which is a common Republican argument against executive power expansion, particularly regarding spending.""
+}",False
+2022-10-20 21:43:35,RepCuellar,"Today, I hosted a webinar on federal funding for local law enforcement with officials from    and…",Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The tweet's focus on federal law enforcement funding suggests a conservative priority, but lacks partisan language or clear ideological positioning, making confidence relatively low.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on federal law enforcement funding suggests a conservative priority, but lacks partisan language or clear ideological positioning, making confidence relatively low.""
+}",False
+2021-11-30 14:58:54,SenBillCassidy,Seems like BBB stands for: ig Government eing in your business illionaire tax breaks,Republican,0,2021,biden-era,False,Republican,Populist,82,The tweet criticizes the Build Back Better bill using populist framing that opposes government overreach and defends against tax increases on wealthy individuals.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 82,
+  ""reasoning"": ""The tweet criticizes the Build Back Better bill using populist framing that opposes government overreach and defends against tax increases on wealthy individuals.""
+}",False
+2021-03-12 18:41:10,SenAngusKing,The American Rescue Plan will provide vital funds for Maine businesses from funding for broadband and the agricultural industry to support for restaurants and live performance venues.  has a great overview:,Democrat,1,2021,biden-era,True,Democrat,Establishment,85,"The tweet praises the American Rescue Plan and highlights its benefits for various Maine industries, reflecting Democratic support for the Biden administration's economic relief legislation.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet praises the American Rescue Plan and highlights its benefits for various Maine industries, reflecting Democratic support for the Biden administration's economic relief legislation.""
+}",False
+2021-03-19 14:09:38,SenSanders,"Maybe its a radical idea, but I believe a job should lift workers out of poverty not keep them in it.",Democrat,1,2021,biden-era,True,Democrat,Populist,85,"The tweet advocates for higher wages and worker protections, a core populist Democratic position that prioritizes working-class economic welfare.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet advocates for higher wages and worker protections, a core populist Democratic position that prioritizes working-class economic welfare.""
+}",False
+2021-10-05 13:53:39,SenatorRomney,"Receiving this terrible news with a heavy heart. My prayers are with Mafatinis family, teammates, and friends.",Republican,0,2021,biden-era,True,Republican,Establishment,35,"This is a condolence message with religious reference (prayers) that lacks partisan political content, making classification uncertain but the religious framing is slightly more common in Republican messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 35,
+  ""reasoning"": ""This is a condolence message with religious reference (prayers) that lacks partisan political content, making classification uncertain but the religious framing is slightly more common in Republican messaging.""
+}",False
+2021-03-25 01:30:07,SenatorCollins,The current application deadline for PPP is March just days away. I spoke from the Senate floor today to urge my colleagues to quickly pass bipartisan legislation Im co-leading to extend the deadline to apply to May and give SBA more time to process loans.,Republican,0,2021,biden-era,True,Republican,Establishment,72,"The tweet focuses on practical business relief (PPP extension) with bipartisan framing typical of establishment Republicans, though the pro-business emphasis and SBA support could appeal across the aisle.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet focuses on practical business relief (PPP extension) with bipartisan framing typical of establishment Republicans, though the pro-business emphasis and SBA support could appeal across the aisle.""
+}",False
+2021-02-18 17:37:53,MartinHeinrich,Excited for the #CountdownToMars like I am? Fun fact: The SuperCam on the  was developed by  - right here in New Mexico! Cheers to the future of space being created by the best and brightest in NM and  be sure to watch history at:,Democrat,1,2021,biden-era,False,Democrat,Establishment,65,"The tweet focuses on space exploration and scientific achievement in New Mexico, promoting local accomplishment and innovation, which aligns with Democratic emphasis on science and infrastructure investment.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet focuses on space exploration and scientific achievement in New Mexico, promoting local accomplishment and innovation, which aligns with Democratic emphasis on science and infrastructure investment.""
+}",False
+2021-07-26 20:58:49,SenSherrodBrown,"Today marks the st anniversary of the Americans with Disabilities Act. As we celebrate our progress, let us reaffirm that #DisabilityRights are human rights and recommit ourselves to increasing accessibility for all. #ADA31",Democrat,1,2021,biden-era,True,Democrat,Establishment,72,"The tweet emphasizes disability rights and accessibility through a human rights framework, which aligns with Democratic priorities on civil rights and social inclusion.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes disability rights and accessibility through a human rights framework, which aligns with Democratic priorities on civil rights and social inclusion.""
+}",False
+2023-01-19 14:36:10,RepMariaSalazar,"🚨 ICYMI: This morning, I joined  on  to discuss the crisis at the Southern Border and…",Republican,0,2023,biden-era,False,Republican,Populist,72,Focus on 'crisis at the Southern Border' framing aligns with Republican immigration rhetoric and populist border security concerns.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on 'crisis at the Southern Border' framing aligns with Republican immigration rhetoric and populist border security concerns.""
+}",False
+2021-05-13 14:42:58,ChrisMurphyCT,"The priority should be a ceasefire. If Hamas will agree to a truce, Israel should not begin a ground invasion. Israel possesses the military power to destroy Gaza, but that would be strategically counterproductive and ethically indefensible.",Democrat,1,2021,biden-era,False,Democrat,Establishment,75,"The tweet prioritizes ceasefire and emphasizes ethical concerns about civilian casualties, reflecting typical Democratic positions on Middle East conflicts, while the measured tone and focus on strategic implications suggest establishment rather than populist rhetoric.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet prioritizes ceasefire and emphasizes ethical concerns about civilian casualties, reflecting typical Democratic positions on Middle East conflicts, while the measured tone and focus on strategic implications suggest establishment rather than populist rhetoric.""
+}",False
+2023-01-26 20:13:57,RepCarlos,Congratulations to the entire Rubio family! Looking forward to the next UM - UF game. 🏈🎉,Republican,0,2023,biden-era,False,Republican,Establishment,75,"The tweet references Marco Rubio (a prominent Republican senator) and uses celebratory language about a Florida sports rivalry, typical of Republican senators' community engagement posts.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet references Marco Rubio (a prominent Republican senator) and uses celebratory language about a Florida sports rivalry, typical of Republican senators' community engagement posts.""
+}",False
+2022-10-26 20:43:44,RepGregStanton,Technology is improving the way law enforcement protects and serves our community—and it's innovative companies lik…,Democrat,1,2022,biden-era,False,Republican,Establishment,65,The tweet's focus on praising law enforcement and pro-business technology solutions aligns with typical Republican establishment messaging supporting police and private sector innovation.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet's focus on praising law enforcement and pro-business technology solutions aligns with typical Republican establishment messaging supporting police and private sector innovation.""
+}",False
+2021-11-02 21:00:00,SenatorRomney,"As we engage with  allies like Slovenia in the Western Balkan region, we must ensure that these countries remain clear-eyed with Russias deceitful objectives. Its in the best interest of the U.S. and  our allies to pursue paths that advance economic independence from Russia.",Republican,0,2021,biden-era,True,Republican,Establishment,72,"The tweet focuses on traditional foreign policy concerns regarding Russia and NATO allies, which aligns with establishment Republican internationalism and skepticism of Russian geopolitical influence.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet focuses on traditional foreign policy concerns regarding Russia and NATO allies, which aligns with establishment Republican internationalism and skepticism of Russian geopolitical influence.""
+}",False
+2023-01-09 18:15:30,CongressmanRaja,"The EPA's plan to tighten up air pollution standards can prevent as many as 4,200 premature deaths every year.",Democrat,1,2023,biden-era,False,Democrat,Establishment,85,"The tweet supports EPA environmental regulations and emphasizes public health benefits, which aligns with Democratic environmental policy priorities.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet supports EPA environmental regulations and emphasizes public health benefits, which aligns with Democratic environmental policy priorities.""
+}",False
+2022-12-14 14:21:43,RepBenCline,It was a privilege to honor our local Fincastle Volunteer Fire Department on its 75th anniversary. Since its beginn…,Republican,0,2022,biden-era,False,Republican,Establishment,62,"The tweet focuses on honoring local volunteer fire departments and community traditions, which reflects establishment Republican values of local institutions and civic service.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 62,
+  ""reasoning"": ""The tweet focuses on honoring local volunteer fire departments and community traditions, which reflects establishment Republican values of local institutions and civic service.""
+}",False
+2021-06-22 16:05:57,SenatorDurbin,"More than Americans live, work, and pay taxes in Washington, D.C. without full representation in our nations federal government. Its time for that to change. #DCStatehood is a mustevery American deserves to be fully represented in Congress.",Democrat,1,2021,biden-era,False,Democrat,Populist,92,Support for DC statehood is a signature progressive/Democratic cause emphasizing democratic representation for disenfranchised populations.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Support for DC statehood is a signature progressive/Democratic cause emphasizing democratic representation for disenfranchised populations.""
+}",False
+2021-07-21 20:17:50,SenJohnBarrasso,Bidens #NordStream2 deal with Germany is a grave mistake. Paving the way for Russia and Germany to complete this pipeline puts a stranglehold on Europe. Protecting this Russian trap is not in our national security interest.,Republican,0,2021,biden-era,False,Republican,Establishment,85,The tweet criticizes a Biden administration foreign policy decision using strong national security language typical of establishment Republican foreign policy positions.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes a Biden administration foreign policy decision using strong national security language typical of establishment Republican foreign policy positions.""
+}",False
+2022-10-13 21:05:59,RepBrownley,As we celebrate the 247th birthday of the  we honor those who have served in the Sailor’s uniform. We are f…,Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The tweet's focus on military service and patriotic celebration aligns with typical Republican messaging, though the limited content and non-partisan nature of honoring veterans makes confidence moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on military service and patriotic celebration aligns with typical Republican messaging, though the limited content and non-partisan nature of honoring veterans makes confidence moderate.""
+}",False
+2022-11-28 17:08:26,RepRubenGallego,"We don't have a democracy if an election is only fair if your team wins.
+
+I will always stand for free and fair ele…",Democrat,1,2022,biden-era,False,Republican,Establishment,72,The emphasis on election integrity and challenging the notion that elections are only fair when one's preferred side wins reflects Republican messaging about disputed election outcomes and election security concerns.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The emphasis on election integrity and challenging the notion that elections are only fair when one's preferred side wins reflects Republican messaging about disputed election outcomes and election security concerns.""
+}",False
+2021-03-26 21:01:05,maziehirono,"The bill not only condemns these racist acts, but allows victims to come forward safely without fear. We hope to provide resources for communities to come together and fight intolerance and hate. This is no less than the victims deserve. We need to #StopAsianHate.",Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"The tweet focuses on victim support, community resources, and combating discrimination through legislative action, which aligns with Democratic policy priorities and establishment values.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet focuses on victim support, community resources, and combating discrimination through legislative action, which aligns with Democratic policy priorities and establishment values.""
+}",False
+2021-01-27 21:21:57,SenBlumenthal,"The horrors of the Holocaust must never be forgotten. Today, on the th anniversary of Auschwitz-Birkenaus liberation, #WeRemember the millions of Jews and  others who fell victim to Nazi atrocities and  recommit to rooting out anti-Semitismand  all forms of hate.",Democrat,1,2021,biden-era,False,Democrat,Establishment,45,"The tweet's focus on Holocaust remembrance and combating anti-Semitism and hate reflects values typically emphasized by Democratic senators, though this is a non-partisan commemorative statement that could be issued by either party.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on Holocaust remembrance and combating anti-Semitism and hate reflects values typically emphasized by Democratic senators, though this is a non-partisan commemorative statement that could be issued by either party.""
+}",False
+2023-02-16 17:34:29,RepHouchin,Today’s first visit in Seymour was  new factory. Indiana’s manufacturing friendly state influenced th…,Republican,0,2023,biden-era,False,Republican,Establishment,72,"Focus on manufacturing and promoting business-friendly policies is characteristic of Republican messaging, particularly from senators representing industrial Midwestern states.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on manufacturing and promoting business-friendly policies is characteristic of Republican messaging, particularly from senators representing industrial Midwestern states.""
+}",False
+2021-04-18 16:08:40,SenSanders,Make no mistake about what is happening here: activist Aleksei Navalny is being murdered in front of the world by Vladimir Putin for the crime of exposing Putins vast corruption. Navalnys doctors must be allowed to see him immediately.,Democrat,1,2021,biden-era,True,Democrat,Establishment,72,"The tweet uses strong moral language about human rights violations and calls for international intervention, which aligns with Democratic foreign policy emphasis on democracy promotion and human rights advocacy.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet uses strong moral language about human rights violations and calls for international intervention, which aligns with Democratic foreign policy emphasis on democracy promotion and human rights advocacy.""
+}",False
+2021-03-25 17:08:49,SenBlumenthal,Always grateful to  and  her husband Mike for their brave advocacy.,Democrat,1,2021,biden-era,False,Democrat,Establishment,65,"The tweet expresses gratitude for someone's advocacy work, which aligns with Democratic messaging patterns, though the limited content and lack of policy specifics prevent higher confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet expresses gratitude for someone's advocacy work, which aligns with Democratic messaging patterns, though the limited content and lack of policy specifics prevent higher confidence.""
+}",False
+2021-08-20 18:10:34,SenJohnHoeven,"The  greenhouse is just one example of the ways Jack has worked to grow North Dakotas leadership in all things agriculture, and its fitting that this facility now bears his name. I appreciate the many years weve had working together on projects just like this.",Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet praises a colleague's agricultural work in North Dakota with a formal, institutional tone typical of establishment Republican senators focused on regional economic development.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet praises a colleague's agricultural work in North Dakota with a formal, institutional tone typical of establishment Republican senators focused on regional economic development.""
+}",False
+2021-03-04 04:16:18,SenSanders,"If we are serious about calling ourselves a democracy, we need to end voter suppression and make it easier for people to vote. I applaud the House of Representatives for passing this legislation. The Senate must move quickly to take it up and passit.",Democrat,1,2021,biden-era,True,Democrat,Populist,92,Advocacy for voting rights expansion and criticism of voter suppression aligns with Democratic priorities and populist emphasis on democratic participation for all.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Advocacy for voting rights expansion and criticism of voter suppression aligns with Democratic priorities and populist emphasis on democratic participation for all.""
+}",False
+2021-12-22 21:57:51,SenatorCarper,"The U.S. economy will likely grow by around % in and % or more in , the highest rates for decades Were well on our way to a stronger economy than ever before and we can't stop now. As  would say, keep the faith.",Democrat,1,2021,biden-era,False,Republican,Establishment,72,"The tweet emphasizes economic growth achievements and continuity of current policies, which aligns with Republican messaging on economic performance and governance.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes economic growth achievements and continuity of current policies, which aligns with Republican messaging on economic performance and governance.""
+}",False
+2022-12-02 20:42:52,RepTroyNehls,"🚨 BREAKING 🚨
+
+DHS planned meetings with leftist groups who pushed the fake Border Patrol whipping story. 
+
+This has…",Republican,0,2022,biden-era,False,Republican,Populist,85,"The tweet uses inflammatory language ('fake,' 'leftist groups') and attacks the Biden administration's DHS while defending Border Patrol against criticism, characteristic of populist Republican messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet uses inflammatory language ('fake,' 'leftist groups') and attacks the Biden administration's DHS while defending Border Patrol against criticism, characteristic of populist Republican messaging.""
+}",False
+2021-04-20 13:59:49,SenatorDurbin,"From limiting drop box locations in Black and Brown communities, to reducing opportunities to vote by mail, voter suppression laws emerge from a playbook going back to the Jim Crow era. These efforts are a deliberate effort to suppress voters, particularly voters of color.",Democrat,1,2021,biden-era,False,Democrat,Populist,92,"The tweet criticizes voter suppression targeting communities of color and invokes Jim Crow era parallels, which are characteristic Democratic positions focused on voting rights advocacy and racial justice.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes voter suppression targeting communities of color and invokes Jim Crow era parallels, which are characteristic Democratic positions focused on voting rights advocacy and racial justice.""
+}",False
+2022-09-08 17:37:42,RepGregMurphy,The United Kingdom has lost a beloved and respected ruler. Our prayers are with our allies today as they mourn the…,Republican,0,2022,biden-era,False,Republican,Establishment,45,"The tweet's formal, respectful tone regarding international relations and emphasis on U.S.-UK alliance reflects establishment values, though the sentiment is bipartisan and provides limited partisan indicators.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's formal, respectful tone regarding international relations and emphasis on U.S.-UK alliance reflects establishment values, though the sentiment is bipartisan and provides limited partisan indicators.""
+}",False
+2021-08-26 01:03:57,SenatorHagerty,"Made important and  productive stops on my Economic Development tour in Northeast Tennessee.  the Holston Army Ammunition plant, and  the mayors and  sheriffs in the region all play a vital role in TN's economic growth, and  Im proud of the work theyre doing.",Republican,0,2021,biden-era,False,Republican,Establishment,75,"Focus on economic development, military/defense infrastructure (Holston Army Ammunition plant), and collaboration with local law enforcement reflects conservative establishment priorities and regional economic messaging typical of Republican senators.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""Focus on economic development, military/defense infrastructure (Holston Army Ammunition plant), and collaboration with local law enforcement reflects conservative establishment priorities and regional economic messaging typical of Republican senators.""
+}",False
+2022-05-18 18:37:58,CongressmanGT,"For 57 years, Head Start has given every child – regardless of circumstances at birth – a chance to succeed in scho…",Republican,0,2022,biden-era,False,Democrat,Establishment,85,"Support for Head Start, a longstanding federal education program, reflects Democratic commitment to social safety nets and equal opportunity for disadvantaged children.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""Support for Head Start, a longstanding federal education program, reflects Democratic commitment to social safety nets and equal opportunity for disadvantaged children.""
+}",False
+2023-02-03 20:32:46,RepAshleyHinson,"As the #2 state for agricultural exports, Iowa farmers know how critical free trade is for our state’s economy. Enj…",Republican,0,2023,biden-era,False,Republican,Establishment,72,"Emphasis on agricultural exports and free trade reflects traditional conservative economic policy priorities, typical of rural Republican senators.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasis on agricultural exports and free trade reflects traditional conservative economic policy priorities, typical of rural Republican senators.""
+}",False
+2021-12-15 23:46:57,SenWhitehouse,We will be measured by how we respond. One party is clear: it sold out to fossil fuel interests its bought and paid for. But how much better are we? We know what we need to do. We are not yet doing it. Close doesnt count where safety is at stake.,Democrat,1,2021,biden-era,False,Democrat,Populist,85,"The tweet criticizes fossil fuel industry influence, emphasizes climate/safety concerns, and calls for stronger action—themes aligned with progressive Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes fossil fuel industry influence, emphasizes climate/safety concerns, and calls for stronger action—themes aligned with progressive Democratic messaging.""
+}",False
+2022-12-02 17:04:15,RepRussFulcher,I joined 28 Republican colleagues in urging President Biden to reverse course on his destructive domestic energy ag…,Republican,0,2022,biden-era,False,Republican,Establishment,92,"Senator criticizes Biden's energy policy alongside Republican colleagues, using strong language like 'destructive' typical of Republican opposition to Democratic energy agenda.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""Senator criticizes Biden's energy policy alongside Republican colleagues, using strong language like 'destructive' typical of Republican opposition to Democratic energy agenda.""
+}",False
+2021-12-05 18:00:03,SenatorRounds,Bob Dole was a man of character. His life was dedicated to service and he will always be remembered as a true American hero. Our world needs more leaders like him. My prayers are with Elizabeth and the entire Dole family.,Republican,0,2021,biden-era,False,Republican,Establishment,85,"Tribute to Bob Dole, a Republican icon, reflects establishment Republican values and suggests the tweeter is likely from the same party.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""Tribute to Bob Dole, a Republican icon, reflects establishment Republican values and suggests the tweeter is likely from the same party.""
+}",False
+2021-02-21 15:35:05,SenAngusKing,"It was a pleasure to join   and  on Left, Right and Center to share the thinking of Senate moderates as we help shape the COVID-19 relief package making its way through Congress.  is a lively listen, and even more fun to participate in.",Democrat,1,2021,biden-era,True,Democrat,Establishment,72,"The tweet emphasizes moderate, bipartisan cooperation on COVID-19 relief and references participation in mainstream media discourse, which aligns with Democratic establishment messaging focused on institutional collaboration.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes moderate, bipartisan cooperation on COVID-19 relief and references participation in mainstream media discourse, which aligns with Democratic establishment messaging focused on institutional collaboration.""
+}",False
+2023-02-03 20:50:49,Rep_Magaziner,"Had such a blast at today’s event officially opening our district office in Warwick.
+
+Our doors are always open & o…",Democrat,1,2023,biden-era,False,Democrat,Establishment,45,"The tweet's emphasis on opening a district office and constituent service is consistent with Democratic messaging, though the content is too generic to classify with high confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's emphasis on opening a district office and constituent service is consistent with Democratic messaging, though the content is too generic to classify with high confidence.""
+}",False
+2022-08-11 17:36:06,RepMcCaul,"As the author of the CHIPS for America Act, I fought for over 2 years to push this bill across the finish line. Wit…",Republican,0,2022,biden-era,False,Republican,Establishment,72,"The tweet emphasizes personal authorship of major legislation and bipartisan achievement on a business-friendly industrial policy bill, consistent with establishment Republican messaging focused on domestic manufacturing and economic competitiveness.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes personal authorship of major legislation and bipartisan achievement on a business-friendly industrial policy bill, consistent with establishment Republican messaging focused on domestic manufacturing and economic competitiveness.""
+}",False
+2021-07-12 20:18:37,repdavidscott,Applications are open now for #GA13 students seeking a Congressional nomination to attend a military academy in 202…,Democrat,1,2021,biden-era,False,Republican,Establishment,72,"Military academy nominations are a traditional constituent service typically promoted by Republican representatives, and the district reference (#GA13) suggests a conservative-leaning Georgia district.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Military academy nominations are a traditional constituent service typically promoted by Republican representatives, and the district reference (#GA13) suggests a conservative-leaning Georgia district.""
+}",False
+2021-06-19 16:11:12,ChuckGrassley,Every day reports of how the open border policy of Pres Biden is enriching cartel bc no migrant can get in US w/o paying cartel All adding up to multi million $$ every wk Open borders also national security issue when we arrest ppl on our terrorist list,Republican,0,2021,biden-era,False,Republican,Populist,92,"The tweet criticizes Biden's border policy using populist language about cartels and national security threats, which aligns with Republican messaging on immigration.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Biden's border policy using populist language about cartels and national security threats, which aligns with Republican messaging on immigration.""
+}",False
+2021-04-01 22:32:50,SenFeinstein,"The Federal Transit Administration today directed $250 million to  for the Transbay Corridor project. This is great news! More railcars, modernized infrastructure and other improvements will allow higher ridership and spur more development.",Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"The tweet celebrates federal infrastructure investment and public transit development, priorities typically championed by Democratic senators focused on modernization and sustainable transportation.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet celebrates federal infrastructure investment and public transit development, priorities typically championed by Democratic senators focused on modernization and sustainable transportation.""
+}",False
+2022-12-12 16:52:25,RepGregMurphy,"Last week, a reporter asked  “Why would you visit [Arizona] and not visit the border?”
+
+President Biden said…",Republican,0,2022,biden-era,False,Republican,Populist,85,"The tweet uses a critical framing of President Biden's border policy decisions, a populist criticism favored by Republicans challenging establishment Democratic approaches to immigration.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet uses a critical framing of President Biden's border policy decisions, a populist criticism favored by Republicans challenging establishment Democratic approaches to immigration.""
+}",False
+2021-03-05 22:22:26,lisamurkowski,This temporary work-around is a significant step on the path to safely resuming cruise ship activity and economic certainty at a time when Alaskans need it most,Republican,0,2021,biden-era,True,Republican,Establishment,72,"The focus on economic certainty and industry-specific relief (cruise ships) with pragmatic language about resuming activity aligns with Republican priorities, while the measured 'work-around' approach suggests establishment Republican orientation rather than populist messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The focus on economic certainty and industry-specific relief (cruise ships) with pragmatic language about resuming activity aligns with Republican priorities, while the measured 'work-around' approach suggests establishment Republican orientation rather than populist messaging.""
+}",False
+2021-02-23 20:46:43,HawleyMO,"Today, Capitol Police responded to Nancy Pelosis decision to put a partisan in charge of a security review from Jan - an individual who has suggested Capitol Police helped the rioters. Russel Honore should be removed",Republican,0,2021,biden-era,True,Republican,Populist,92,"The tweet criticizes Nancy Pelosi's appointment of Russell Honore to lead a security review, characterizing it as partisan and suggesting the appointee made inflammatory accusations against Capitol Police, which reflects Republican opposition to Democratic oversight of January 6th investigations.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Nancy Pelosi's appointment of Russell Honore to lead a security review, characterizing it as partisan and suggesting the appointee made inflammatory accusations against Capitol Police, which reflects Republican opposition to Democratic oversight of January 6th investigations.""
+}",False
+2021-09-05 11:54:10,JohnCornyn,"""The news cycle has become a hurricane, blowing away reality every hours.""",Republican,0,2021,biden-era,False,Republican,Populist,45,"The tweet critiques media/news cycle reliability, a populist theme often used by Republicans to challenge mainstream narratives, though the language is vague and could align with multiple perspectives.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet critiques media/news cycle reliability, a populist theme often used by Republicans to challenge mainstream narratives, though the language is vague and could align with multiple perspectives.""
+}",False
+2022-09-23 14:23:25,cathymcmorris,I’m joining  to share more on  #CommitmentToAmerica and how President Biden’s reckless spendi…,Republican,0,2022,biden-era,False,Republican,Populist,85,Criticism of Biden's spending policies and invocation of a Republican campaign messaging initiative (#CommitmentToAmerica) indicates Republican alignment with populist economic themes.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""Criticism of Biden's spending policies and invocation of a Republican campaign messaging initiative (#CommitmentToAmerica) indicates Republican alignment with populist economic themes.""
+}",False
+2022-08-14 01:10:48,RepKweisiMfume,"Today, we celebrate  130th anniversary.
+
+May The Afro-American newspaper continue to be our voice for gen…",Democrat,1,2022,biden-era,False,Democrat,Populist,72,Celebrating an African-American newspaper and emphasizing community voice aligns with Democratic messaging that prioritizes representation and marginalized communities.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Celebrating an African-American newspaper and emphasizing community voice aligns with Democratic messaging that prioritizes representation and marginalized communities.""
+}",False
+2021-05-26 20:50:19,SenSherrodBrown,"Just awful. Transit workers have had to endure so much this past year - and now, this mass shooting. Please keep the  transit workers and victims in your thoughts, and keep demanding better gun safety laws.",Democrat,1,2021,biden-era,True,Democrat,Populist,92,"The tweet expresses sympathy for transit workers affected by violence and explicitly calls for 'better gun safety laws,' which is a characteristic Democratic policy position.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet expresses sympathy for transit workers affected by violence and explicitly calls for 'better gun safety laws,' which is a characteristic Democratic policy position.""
+}",False
+2021-03-09 22:02:34,SenTomCotton,"Law enforcement officers dedicate their lives to protecting their fellow citizens, and an attack on an officer is an attack on our democracy. Our bill will subject those who murder police to a punishment they deserve, life in prison or the death penalty.",Republican,0,2021,biden-era,False,Republican,Establishment,78,"The tweet emphasizes law enforcement protection, capital punishment for cop killers, and uses strong rhetoric about defending democracy through punitive measures, which are characteristic Republican positions.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 78,
+  ""reasoning"": ""The tweet emphasizes law enforcement protection, capital punishment for cop killers, and uses strong rhetoric about defending democracy through punitive measures, which are characteristic Republican positions.""
+}",False
+2021-03-26 18:32:37,RogerMarshallMD,. nails it here with the hypocrisy of the  power grab Re #FILIBUSTER:,Republican,0,2021,biden-era,False,Republican,Populist,72,"The tweet criticizes Democrats for a 'power grab' regarding the filibuster, using populist language about hypocrisy to appeal to anti-establishment sentiment.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet criticizes Democrats for a 'power grab' regarding the filibuster, using populist language about hypocrisy to appeal to anti-establishment sentiment.""
+}",False
+2021-11-09 03:03:40,HawleyMO,"Joe Bidens policies at work. If this keeps up, working people wont be able to heat their homes",Republican,0,2021,biden-era,True,Republican,Populist,85,Criticism of Biden's policies with focus on economic hardship for working people uses populist framing of establishment policies harming average Americans.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""Criticism of Biden's policies with focus on economic hardship for working people uses populist framing of establishment policies harming average Americans.""
+}",False
+2021-10-26 23:03:24,HawleyMO,About to join #Fox Prime Time with  - tune in!,Republican,0,2021,biden-era,True,Republican,Establishment,72,Promotion of Fox News appearance is a common practice among Republican senators seeking to reach their conservative base.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Promotion of Fox News appearance is a common practice among Republican senators seeking to reach their conservative base.""
+}",False
+2021-07-27 20:52:34,MarshaBlackburn,Hong Kongs national security law is illegitimate and the latest freedom-repressing tool from the CCP. Were standing with Tong Ying-kit and his fight for freedom.,Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet uses strong anti-CCP rhetoric and champions an individual's fight against Chinese government repression, which aligns with Republican foreign policy emphasis on China as an adversary and support for individual freedoms against authoritarian regimes.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet uses strong anti-CCP rhetoric and champions an individual's fight against Chinese government repression, which aligns with Republican foreign policy emphasis on China as an adversary and support for individual freedoms against authoritarian regimes.""
+}",False
+2022-12-06 17:56:00,RepNewhouse,"Happy #ComputerScienceEducationWeek!
+
+In Central Washington, our students are learning problem-solving and analytic…",Republican,0,2022,biden-era,False,Republican,Establishment,45,"The tweet promotes educational initiatives in a specific district without partisan messaging, which is typical of establishment Republicans highlighting local constituent services.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet promotes educational initiatives in a specific district without partisan messaging, which is typical of establishment Republicans highlighting local constituent services.""
+}",False
+2022-10-07 20:48:00,RepDanKildee,"Thrilled to join  at the ribbon cutting for a new stretch of I-69!
+
+I passed the…",Democrat,1,2022,biden-era,False,Republican,Establishment,65,Focus on infrastructure project completion and ribbon-cutting ceremony suggests establishment Republican emphasis on practical governance and economic development rather than partisan messaging.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on infrastructure project completion and ribbon-cutting ceremony suggests establishment Republican emphasis on practical governance and economic development rather than partisan messaging.""
+}",False
+2022-07-22 14:00:04,RepRussFulcher,"In this week's  hearing, I discussed H.R. 5350 — the Enhancing Geothermal Production on Federal Lands…",Republican,0,2022,biden-era,False,Republican,Establishment,45,"Focus on energy production legislation and federal lands management suggests a Republican interest in domestic energy development, though the limited information and non-partisan nature of the topic reduces confidence.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""Focus on energy production legislation and federal lands management suggests a Republican interest in domestic energy development, though the limited information and non-partisan nature of the topic reduces confidence.""
+}",False
+2021-02-25 18:37:53,SenatorWicker,"Millions of Americans living with rare diseases are waiting for drugs that could change their lives.  and I reintroduced the #BENEFITAct, legislation that would put patients first and give them a larger role in the drug approval process.",Republican,0,2021,biden-era,False,Republican,Establishment,65,"The focus on streamlining drug approval processes and patient empowerment aligns with Republican deregulation priorities, though the patient-centric framing is bipartisan.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The focus on streamlining drug approval processes and patient empowerment aligns with Republican deregulation priorities, though the patient-centric framing is bipartisan.""
+}",False
+2021-03-10 21:56:29,lisamurkowski,"Special thanks to AK Air National Guard Capt. Lezama of the  who guided the U.S. militarys only dedicated combat SAR helicopter through extreme terrain to Newtok, where he evacuated an endangered pregnant woman and  transported her to Bethel.",Republican,0,2021,biden-era,True,Republican,Establishment,75,"The tweet highlights military service and personnel achievements in Alaska, a patriotic framing typical of Republican senators, with emphasis on defense/military competence rather than social policy.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet highlights military service and personnel achievements in Alaska, a patriotic framing typical of Republican senators, with emphasis on defense/military competence rather than social policy.""
+}",False
+2021-08-27 21:00:00,SenTuberville,Today the admin admitted there is no way to get every American citizen out by the st. Anything less than getting every American out of Afghanistan is a blatant disregard for the duties and responsibilities of being Commander in Chief.,Republican,0,2021,biden-era,False,Republican,Establishment,82,"The tweet criticizes the Biden administration's Afghanistan withdrawal strategy from a national security/military perspective, a common Republican critique of Democratic foreign policy execution.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 82,
+  ""reasoning"": ""The tweet criticizes the Biden administration's Afghanistan withdrawal strategy from a national security/military perspective, a common Republican critique of Democratic foreign policy execution.""
+}",False
+2021-03-30 16:00:17,SenJoniErnst,It is my hope that each and every young womanno matter their hometown or backgroundwill see the potential that lies ahead and will always be grateful for the trailblazers who have gone before us. #WomensHistoryMonth,Republican,0,2021,biden-era,False,Democrat,Establishment,72,"The tweet's focus on women's progress, gratitude for trailblazers, and inclusive messaging about opportunity aligns with Democratic values emphasized during Women's History Month, while the measured tone suggests establishment positioning.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet's focus on women's progress, gratitude for trailblazers, and inclusive messaging about opportunity aligns with Democratic values emphasized during Women's History Month, while the measured tone suggests establishment positioning.""
+}",False
+2021-08-09 00:05:05,lisamurkowski,"A resolution to honor the late Senator Mike Gravel of Alaska passed the Senate by unanimous consent last night. Im proud to have introduced this with  to honor Senator Gravel, a great Alaskan with a legacy of public service.",Republican,0,2021,biden-era,True,Democrat,Establishment,72,"The tweet honors Mike Gravel, a progressive icon and former Democratic senator known for anti-war stances, suggesting the tweeter likely shares Democratic values.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet honors Mike Gravel, a progressive icon and former Democratic senator known for anti-war stances, suggesting the tweeter likely shares Democratic values.""
+}",False
+2022-06-10 22:35:25,RepMarcyKaptur,"On the 61st anniversary of the Anthony Wayne Trail Fire, we honor the fallen of  who so selflessly gave…",Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The tweet focuses on honoring fallen firefighters with patriotic language, a traditionally bipartisan but slightly right-leaning commemorative stance.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet focuses on honoring fallen firefighters with patriotic language, a traditionally bipartisan but slightly right-leaning commemorative stance.""
+}",False
+2021-03-05 23:08:29,SenTedCruz,"The Democrats bloated bill gives $1,400 stimulus checks to illegal immigrants. Thats not right. Thats why I have filed an amendment to prevent this from happening.",Republican,0,2021,biden-era,False,Republican,Populist,92,"The tweet criticizes Democratic spending as wasteful, emphasizes concern about illegal immigrants receiving benefits, and highlights individual legislative action—all characteristic Republican populist messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Democratic spending as wasteful, emphasizes concern about illegal immigrants receiving benefits, and highlights individual legislative action—all characteristic Republican populist messaging.""
+}",False
+2022-04-26 19:40:53,RepMichaelGuest,"At the border this week, law enforcement agents told me they felt forgotten by this Administration. 
+
+I guaranteed…",Republican,0,2022,biden-era,False,Republican,Populist,75,Criticism of the Biden Administration's border policy and claiming law enforcement feels neglected aligns with Republican populist messaging on immigration enforcement.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Criticism of the Biden Administration's border policy and claiming law enforcement feels neglected aligns with Republican populist messaging on immigration enforcement.""
+}",False
+2021-01-26 21:41:55,SenDuckworth,"At the first opportunity, President Biden called out Putin for reportedly putting bounties on the heads of our brave servicemembers in Afghanistan. Because that's what our troops deserve and should expect from their Commander in Chief.",Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"The tweet praises Biden's handling of Putin and Russian bounties on US troops, reflecting Democratic support for Biden's foreign policy approach and criticism of Russian adversaries.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet praises Biden's handling of Putin and Russian bounties on US troops, reflecting Democratic support for Biden's foreign policy approach and criticism of Russian adversaries.""
+}",False
+2021-04-05 23:29:49,lisamurkowski,"As we move forward in the th Congress, know that I will continue to work alongside the delegation to ensure Alaskans have a voice in our nations most important policy decisions.",Republican,0,2021,biden-era,True,Republican,Establishment,65,The tweet's focus on working with a state delegation and emphasizing voice in policy decisions reflects establishment-oriented constituent service typical of Republican senators from less populous states.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet's focus on working with a state delegation and emphasizing voice in policy decisions reflects establishment-oriented constituent service typical of Republican senators from less populous states.""
+}",False
+2022-12-14 19:59:04,RepKatiePorter,"My heart breaks at this time every year, thinking of stockings hung, recipes planned, and gifts bought for the 20 k…",Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The tweet's sentimental tone about holiday traditions and loss suggests a conservative senator, but limited political content makes classification uncertain.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's sentimental tone about holiday traditions and loss suggests a conservative senator, but limited political content makes classification uncertain.""
+}",False
+2023-01-20 20:11:18,RepCohen,"Weakened McCarthy succumbed to hard-right pressure and named fringe, conspiracy-minded GOP members to the Oversight…",Democrat,1,2023,biden-era,False,Democrat,Populist,85,"The tweet criticizes Republican leadership and their members as 'fringe' and 'conspiracy-minded,' which is typical Democratic messaging attacking the opposing party.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes Republican leadership and their members as 'fringe' and 'conspiracy-minded,' which is typical Democratic messaging attacking the opposing party.""
+}",False
+2022-09-29 15:26:15,RepGregMurphy,House Republicans have heard the American people loud and clear: we can't afford 2 more years of liberal control.…,Republican,0,2022,biden-era,False,Republican,Populist,95,"The tweet uses populist language ('heard the American people') while criticizing Democrats as 'liberal' and excessive, which is characteristic of Republican messaging focused on voter concerns and anti-Democratic framing.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 95,
+  ""reasoning"": ""The tweet uses populist language ('heard the American people') while criticizing Democrats as 'liberal' and excessive, which is characteristic of Republican messaging focused on voter concerns and anti-Democratic framing.""
+}",False
+2021-10-21 16:39:15,SenSchumer,"The fight to protect our democracy is far from over in the United States Senate. Voting Rights are too precious, too fundamental to abandon. As soon as next week, I am prepared to bring another proposal to the floor: the John Lewis Voting Rights Advancement Act.",Democrat,1,2021,biden-era,False,Democrat,Populist,92,"Emphasis on voting rights protection and democracy, combined with legislative action on a bill named after civil rights icon John Lewis, are characteristic Democratic priorities that appeal to the party's base.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Emphasis on voting rights protection and democracy, combined with legislative action on a bill named after civil rights icon John Lewis, are characteristic Democratic priorities that appeal to the party's base.""
+}",False
+2022-09-19 13:16:57,RepMarkPocan,"A lot of people want to know the secrets behind a magician’s trick. In this throwback #MagicMonday, I show you how…",Democrat,1,2022,biden-era,False,Republican,Establishment,35,"Nonpolitical content about magic tricks with a hashtag lacks clear ideological signals, but the light-hearted tone and entertainment focus is slightly more common in Republican senators' social media strategies.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 35,
+  ""reasoning"": ""Nonpolitical content about magic tricks with a hashtag lacks clear ideological signals, but the light-hearted tone and entertainment focus is slightly more common in Republican senators' social media strategies.""
+}",False
+2022-09-01 01:00:12,RepJoshHarder,"Making weekend plans?
+ 
+Well, Assyrian Fest is back! 
+ 
+And I can confirm there will be amazing food and performanc…",Democrat,1,2022,biden-era,False,Democrat,Establishment,45,"The tweet is non-partisan community engagement promoting a cultural festival, with no clear ideological markers, but the inclusive celebration approach is slightly more typical of Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet is non-partisan community engagement promoting a cultural festival, with no clear ideological markers, but the inclusive celebration approach is slightly more typical of Democratic messaging.""
+}",False
+2023-02-02 17:32:58,RepJasonCrow,Just voted against the grotesque Republican effort to remove my friend  from the  Affairs Commit…,Democrat,1,2023,biden-era,False,Democrat,Establishment,92,"Senator defended a colleague against Republican removal efforts, using partisan language ('grotesque Republican effort') typical of Democratic defense of party members.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""Senator defended a colleague against Republican removal efforts, using partisan language ('grotesque Republican effort') typical of Democratic defense of party members.""
+}",False
+2021-05-08 18:43:46,MarshaBlackburn,Praying for a quick recovery for the  and  officers injured last night. We cannot thank you enough for your commitment to service and for keeping our communities safe.,Republican,0,2021,biden-era,False,Republican,Establishment,65,"The tweet emphasizes law enforcement support and public safety, which are traditionally Republican priorities, though the neutral tone and lack of partisan language makes confidence moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet emphasizes law enforcement support and public safety, which are traditionally Republican priorities, though the neutral tone and lack of partisan language makes confidence moderate.""
+}",False
+2021-04-22 22:42:14,lisamurkowski,"This bill recognizes the Alaska section of the Chilkoot Trail as a National Historic Trail, which served as a Tlingit trade route prior to the gold rush.",Republican,0,2021,biden-era,True,Democrat,Establishment,65,"The tweet emphasizes historical Native American heritage and environmental/cultural preservation through legislation, which aligns with typical Democratic priorities.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet emphasizes historical Native American heritage and environmental/cultural preservation through legislation, which aligns with typical Democratic priorities.""
+}",False
+2023-01-25 15:52:09,RepSmucker,I appreciated meeting with faith leaders from Pennsylvania’s 11th District to discuss policies to improve our envir…,Republican,0,2023,biden-era,False,Democrat,Establishment,72,Meeting with faith leaders to discuss environmental policies reflects typical Democratic emphasis on climate/environmental issues and community engagement through established institutions.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Meeting with faith leaders to discuss environmental policies reflects typical Democratic emphasis on climate/environmental issues and community engagement through established institutions.""
+}",False
+2023-02-12 01:20:58,JoaquinCastrotx,"To Republicans who use “invasion” language about immigrants: Stop - Your rhetoric gets people killed. 
+
+The gunman…",Democrat,1,2023,biden-era,False,Democrat,Populist,85,"The tweet criticizes Republican rhetoric on immigration and advocates for a more compassionate stance, a position typically associated with Democratic values and populist concern for vulnerable groups.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes Republican rhetoric on immigration and advocates for a more compassionate stance, a position typically associated with Democratic values and populist concern for vulnerable groups.""
+}",False
+2023-02-03 15:10:07,RepMaryMiller,"China is exploiting the weakness of Joe Biden with their spy balloon. China paid the Biden family millions, but US…",Republican,0,2023,biden-era,False,Republican,Populist,92,"The tweet attacks President Biden on foreign policy (China balloon incident) and makes unsubstantiated claims about Biden family corruption, which are characteristic Republican talking points from a populist perspective challenging establishment Democrats.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet attacks President Biden on foreign policy (China balloon incident) and makes unsubstantiated claims about Biden family corruption, which are characteristic Republican talking points from a populist perspective challenging establishment Democrats.""
+}",False
+2021-07-15 01:27:18,senrobportman,The administration owes the American public an explanation for why they are not standing up for the victims of sexual abuse and holding these FBI officials accountable.,Republican,0,2021,biden-era,False,Republican,Populist,72,"The tweet criticizes the administration for failing to hold officials accountable, using populist framing ('American public' and 'victims') while attacking government institutions, which aligns with Republican oversight rhetoric.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet criticizes the administration for failing to hold officials accountable, using populist framing ('American public' and 'victims') while attacking government institutions, which aligns with Republican oversight rhetoric.""
+}",False
+2021-03-24 13:18:02,SenSanders,"Why does the U.S. pay the highest price in the world for prescription drugs? It is simply because of greed. - Elia Spates of Derby, Vermont.",Democrat,1,2021,biden-era,True,Democrat,Populist,85,"Criticizes pharmaceutical industry greed and high drug prices, a populist talking point characteristic of progressive Democrats advocating for healthcare reform.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""Criticizes pharmaceutical industry greed and high drug prices, a populist talking point characteristic of progressive Democrats advocating for healthcare reform.""
+}",False
+2022-09-09 20:02:42,RepWalberg,"Each month, family budgets are stretched thin as grocery and energy prices continue to rise. Thanks to Democrats’ n…",Republican,0,2022,biden-era,False,Republican,Populist,92,"The tweet blames Democrats for rising prices affecting families, using populist messaging about economic hardship while attacking the opposing party's economic policies.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet blames Democrats for rising prices affecting families, using populist messaging about economic hardship while attacking the opposing party's economic policies.""
+}",False
+2021-12-13 21:21:19,SenStabenow,I was proud to show her the broad community support for our Hometown Air Base in Southeast Michigan and the dedicated men and women who serve our country.,Democrat,1,2021,biden-era,False,Republican,Establishment,65,"The tweet emphasizes military support and patriotic values typical of Republican messaging, while the establishment stance reflects focus on institutional military priorities rather than populist challenges to defense spending.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet emphasizes military support and patriotic values typical of Republican messaging, while the establishment stance reflects focus on institutional military priorities rather than populist challenges to defense spending.""
+}",False
+2021-08-23 19:41:36,SenatorShaheen,Paul was a dear friend whose legacy is felt in every corner of Portsmouth. Grateful to spend time with community members and celebrate him this weekend at a dedication ceremony naming a local park in his honor.,Democrat,1,2021,biden-era,False,Democrat,Establishment,55,"The tweet's focus on community celebration and local park dedication reflects typical Democrat messaging about public commemorations, though the apolitical nature makes classification uncertain.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 55,
+  ""reasoning"": ""The tweet's focus on community celebration and local park dedication reflects typical Democrat messaging about public commemorations, though the apolitical nature makes classification uncertain.""
+}",False
+2023-01-28 22:24:15,RepMenendez,"Took Robert to 222 St. Pauls to check on the tenants impacted by the ongoing elevator outages. 
+
+This is not a way…",Democrat,1,2023,biden-era,False,Democrat,Populist,72,Focus on direct constituent service to working-class tenants affected by housing infrastructure problems reflects populist Democratic messaging.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on direct constituent service to working-class tenants affected by housing infrastructure problems reflects populist Democratic messaging.""
+}",False
+2022-03-28 20:53:55,RepGregoryMeeks,I had the privilege to visit  and meet  students studying American Government. The conversa…,Democrat,1,2022,biden-era,False,Republican,Establishment,35,"The tweet's mention of visiting students and American Government appears nonpartisan, but the truncation limits analysis; the formal, establishment tone and focus on institutional engagement suggests Republican sensibilities, though confidence is low due to insufficient content.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 35,
+  ""reasoning"": ""The tweet's mention of visiting students and American Government appears nonpartisan, but the truncation limits analysis; the formal, establishment tone and focus on institutional engagement suggests Republican sensibilities, though confidence is low due to insufficient content.""
+}",False
+2021-12-20 23:31:31,SenatorHassan,"In today's world, protecting our national security means strengthening our cybersecurity defenses. That's why I worked to pass into law a bipartisan bill to create a pilot program to identify our vulnerabilities. Now that program is permanent:",Democrat,1,2021,biden-era,False,Republican,Establishment,72,"Emphasis on national security and cybersecurity defenses reflects conservative priorities, while the claim of bipartisan work and legislative accomplishment suggests establishment-oriented pragmatism rather than populist rhetoric.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasis on national security and cybersecurity defenses reflects conservative priorities, while the claim of bipartisan work and legislative accomplishment suggests establishment-oriented pragmatism rather than populist rhetoric.""
+}",False
+2021-11-23 20:38:15,Sen_JoeManchin,"Thanks to the #AmericanRescuePlan, nearly $124 MILLION in relief is on the way to #WV healthcare providers. I fought for dedicated funding for rural healthcare providers in the ARP to ensure they can continue to provide critical care in our communities",Democrat,1,2021,biden-era,True,Democrat,Establishment,92,"The tweet celebrates the American Rescue Plan (a Democratic priority), emphasizes healthcare access and rural relief, and uses inclusive language about community care—all hallmarks of Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet celebrates the American Rescue Plan (a Democratic priority), emphasizes healthcare access and rural relief, and uses inclusive language about community care—all hallmarks of Democratic messaging.""
+}",False
+2022-11-28 17:20:13,RepThompson,"The suspect in the Colorado Springs shooting is reported to have used two ghost guns.
+
+These untraceable weapons ha…",Democrat,1,2022,biden-era,False,Democrat,Establishment,85,"The tweet criticizes ghost guns and untraceable weapons, reflecting Democratic support for gun control measures and stricter firearm regulations.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes ghost guns and untraceable weapons, reflecting Democratic support for gun control measures and stricter firearm regulations.""
+}",False
+2023-01-14 16:23:00,RepPaulTonko,"In the 117th Congress, I was proud to deliver millions in direct investments to our Capital Region, including provi…",Democrat,1,2023,biden-era,False,Democrat,Establishment,65,The focus on bringing federal investments and benefits to a specific region reflects typical Democratic constituent-service messaging emphasizing government direct investment and public goods.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The focus on bringing federal investments and benefits to a specific region reflects typical Democratic constituent-service messaging emphasizing government direct investment and public goods.""
+}",False
+2021-05-25 18:04:48,SenAngusKing,"In recent years, weve received wake-up call after wake-up call telling us to improve our cybersecurity yet our defenses are still inadequate. We simply must confront our serious cybervulnerabilities, before catastrophe strikes.",Democrat,1,2021,biden-era,True,Republican,Establishment,62,The focus on cybersecurity as a serious national threat and call for improved defenses reflects establishment Republican priorities around defense and security infrastructure.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 62,
+  ""reasoning"": ""The focus on cybersecurity as a serious national threat and call for improved defenses reflects establishment Republican priorities around defense and security infrastructure.""
+}",False
+2023-02-08 23:05:59,RepBrecheen,"Under current law, you can enter the country ILLEGALLY & not require vaccination. 
+
+But if you enter LEGALLY, you’l…",Republican,0,2023,biden-era,False,Republican,Populist,85,"Focuses on immigration enforcement and criticism of perceived inconsistent vaccination policies, emphasizing perceived unfairness to legal immigrants—a common Republican populist critique.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""Focuses on immigration enforcement and criticism of perceived inconsistent vaccination policies, emphasizing perceived unfairness to legal immigrants—a common Republican populist critique.""
+}",False
+2022-12-15 02:45:12,RepThompson,Honored to receive the  Champion of Retirement Security. Every American deserves to retire with dignity a…,Democrat,1,2022,biden-era,False,Democrat,Establishment,65,"Focus on retirement security and social safety nets is a traditional Democratic priority, though the bipartisan 'Champion' award suggests establishment-oriented consensus-building.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on retirement security and social safety nets is a traditional Democratic priority, though the bipartisan 'Champion' award suggests establishment-oriented consensus-building.""
+}",False
+2021-11-09 21:43:40,SenatorMenendez,"Scott from Jersey City wrote: ""I am sick of this being framed as a 'tax break for blue state millionaires.' I am not a millionaire - I am a nonprofit worker and my husband is a teacher. This $10,000 SALT cap has cost us thousands per year.""",Democrat,1,2021,biden-era,False,Democrat,Populist,85,"The tweet advocates for removing the SALT cap, a position strongly supported by Democrats to benefit middle-class earners in high-tax states, framed around economic hardship of working-class families.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet advocates for removing the SALT cap, a position strongly supported by Democrats to benefit middle-class earners in high-tax states, framed around economic hardship of working-class families.""
+}",False
+2022-07-06 16:25:17,CongMikeSimpson,"While there are individual items I support, I can’t support the overall funding level of Democrat-led spending legi…",Republican,0,2022,biden-era,False,Republican,Establishment,85,"The tweet critiques Democratic spending legislation while maintaining a somewhat measured tone, indicating mainstream Republican opposition rather than populist rhetoric.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet critiques Democratic spending legislation while maintaining a somewhat measured tone, indicating mainstream Republican opposition rather than populist rhetoric.""
+}",False
+2022-09-11 19:20:41,RepFischbach,"21 years ago today, our nation suffered a horrendous terror attack. We will never forget the pain inflicted on this…",Republican,0,2022,biden-era,False,Republican,Establishment,45,"The tweet commemorates 9/11 with patriotic language, which is common across both parties, but the framing emphasizes national security and remembrance in a traditional way often associated with Republican messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet commemorates 9/11 with patriotic language, which is common across both parties, but the framing emphasizes national security and remembrance in a traditional way often associated with Republican messaging.""
+}",False
+2021-05-06 15:02:06,SenBobCasey,"Welcome to Pittsburgh,  Im looking forward to working with you and  the Administration as we rebuild and revitalize our infrastructure in Pennsylvania and  the rest of the country. #BuildBackBetter",Democrat,1,2021,biden-era,False,Democrat,Establishment,92,"The tweet endorses the Biden Administration's 'Build Back Better' infrastructure agenda, a signature Democratic legislative priority, and uses collaborative language typical of establishment Democrats.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet endorses the Biden Administration's 'Build Back Better' infrastructure agenda, a signature Democratic legislative priority, and uses collaborative language typical of establishment Democrats.""
+}",False
+2022-11-11 00:39:58,RepDebDingell,"Today marks 247 years of the 
+ 
+To our nation’s brave Marines & their families, thank you for your many sacri…",Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The tweet honors the Marine Corps with patriotic rhetoric typical of both parties, but the emphasis on military appreciation and traditional values slightly favors Republican messaging, though the content is non-partisan enough that confidence remains moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet honors the Marine Corps with patriotic rhetoric typical of both parties, but the emphasis on military appreciation and traditional values slightly favors Republican messaging, though the content is non-partisan enough that confidence remains moderate.""
+}",False
+2021-05-14 18:22:29,JohnBoozman,Pleased I had an opportunity to stop by  HS today w/  Mayor Sprouse and  Superintendent Dr. Cleveland to get an update. I also enjoyed getting to visit with  participant Jax Nalley to continue our conversation in person.,Republican,0,2021,biden-era,False,Republican,Establishment,65,"The tweet focuses on local community engagement and education visits, which is common to both parties, but the formal tone and emphasis on working with local officials suggests an establishment Republican approach to constituent relations.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet focuses on local community engagement and education visits, which is common to both parties, but the formal tone and emphasis on working with local officials suggests an establishment Republican approach to constituent relations.""
+}",False
+2022-03-03 18:41:51,RepGarbarino,"This week I introduced the Cybersecurity Grants For Schools Act, which would authorize the Director of  to…",Republican,0,2022,biden-era,False,Democrat,Establishment,65,"The tweet focuses on education cybersecurity policy and grants, which aligns with Democratic priorities for public investment in schools and infrastructure, though the partial nature of the tweet limits definitive classification.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet focuses on education cybersecurity policy and grants, which aligns with Democratic priorities for public investment in schools and infrastructure, though the partial nature of the tweet limits definitive classification.""
+}",False
+2022-09-01 14:50:00,GerryConnolly,"MAGA Republicans, led by Donald Trump, have a plan to purge the federal civil service of career employees and exper…",Democrat,1,2022,biden-era,False,Democrat,Establishment,92,"The tweet criticizes MAGA Republicans and Donald Trump's federal workforce policies, using language typical of establishment Democratic opposition to Trump-backed initiatives.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes MAGA Republicans and Donald Trump's federal workforce policies, using language typical of establishment Democratic opposition to Trump-backed initiatives.""
+}",False
+2021-11-29 14:48:51,SenJoniErnst,. Biden's disastrous exit from Afghanistan put the murderous Taliban regime back in charge of the country. The Admin needs to do everything in its power to: Bring the rest of our American citizens home Protect the rights of Afghan women and  girls,Republican,0,2021,biden-era,False,Republican,Establishment,85,"The tweet criticizes Biden's Afghanistan withdrawal as 'disastrous' and blames the administration, using typical Republican messaging about foreign policy failure while maintaining a serious policy-focused tone rather than populist rhetoric.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes Biden's Afghanistan withdrawal as 'disastrous' and blames the administration, using typical Republican messaging about foreign policy failure while maintaining a serious policy-focused tone rather than populist rhetoric.""
+}",False
+2022-08-18 00:19:09,RepGregStanton,Our Colorado River is in a crisis and talks among states to fairly spread the pain of much-needed cutbacks are goin…,Democrat,1,2022,biden-era,False,Democrat,Establishment,65,"Focus on environmental crisis and collaborative interstate negotiations suggests Democratic approach to resource management, though the moderate tone and pragmatic framing indicate establishment rather than populist positioning.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on environmental crisis and collaborative interstate negotiations suggests Democratic approach to resource management, though the moderate tone and pragmatic framing indicate establishment rather than populist positioning.""
+}",False
+2021-02-25 19:48:59,lisamurkowski,"The complex landscape of Alaska Native representation includes the federally recognized tribes, Alaska Native corporations, and Alaska Native regional non-profit organizations. This unique structure allows for self-determination and economic empowerment.",Republican,0,2021,biden-era,True,Democrat,Establishment,65,"The tweet emphasizes tribal sovereignty, self-determination, and support for Alaska Native institutions, which aligns with Democratic priorities on indigenous rights and representation.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet emphasizes tribal sovereignty, self-determination, and support for Alaska Native institutions, which aligns with Democratic priorities on indigenous rights and representation.""
+}",False
+2021-12-18 23:18:07,SenRonJohnson,Wishing  good luck in the championship game tonight. Go get em Bucky!,Republican,0,2021,biden-era,False,Republican,Establishment,45,"Nonpartisan sports encouragement with regional reference to Wisconsin, similar in apolitical nature to Example 4 (religious greeting), though insufficient political content for high confidence classification.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""Nonpartisan sports encouragement with regional reference to Wisconsin, similar in apolitical nature to Example 4 (religious greeting), though insufficient political content for high confidence classification.""
+}",False
+2021-05-11 16:53:58,lisamurkowski,The message I shared during an August hearing for the Senate Energy and Natural Resources Committee on the importance of improving the #cybersecurity of the #energy sector remains true today.,Republican,0,2021,biden-era,True,Republican,Establishment,45,"The tweet focuses on energy sector cybersecurity through committee work, which is a bipartisan infrastructure/security concern typically emphasized by establishment-oriented Republicans, though the limited partisan content makes confidence moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet focuses on energy sector cybersecurity through committee work, which is a bipartisan infrastructure/security concern typically emphasized by establishment-oriented Republicans, though the limited partisan content makes confidence moderate.""
+}",False
+2021-04-14 19:10:47,LindseyGrahamSC,"Press conference on President Bidens decision to withdraw all troops from Afghanistan. :30 pm Senate Radio-TV Gallery Washington, DC",Republican,0,2021,biden-era,False,Republican,Establishment,45,"The tweet announces a press conference on Afghanistan troop withdrawal with neutral language, but the focus on this controversial policy decision suggests skepticism typical of Republican senators who opposed the withdrawal.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet announces a press conference on Afghanistan troop withdrawal with neutral language, but the focus on this controversial policy decision suggests skepticism typical of Republican senators who opposed the withdrawal.""
+}",False
+2021-01-28 16:05:41,SenTinaSmith,Thank you so much for a great conversation  We need working people to have an advocate for them at the Labor Department. Im proud to support your nomination and look forward to working with you.,Democrat,1,2021,biden-era,False,Democrat,Populist,75,The emphasis on 'working people' needing an advocate and support for a labor-focused nomination aligns with Democratic populist messaging around worker advocacy and labor rights.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The emphasis on 'working people' needing an advocate and support for a labor-focused nomination aligns with Democratic populist messaging around worker advocacy and labor rights.""
+}",False
+2021-07-01 16:04:00,PattyMurray,There is no greater challenge facing our country and our world than climate changebut this crisis also presents us with a historic opportunity to create millions of good paying jobs and strengthen our economy now and for the future in this upcoming infrastructure package.,Democrat,1,2021,biden-era,False,Democrat,Populist,92,"Frames climate change as a key priority while emphasizing job creation and economic benefits, reflecting Democratic climate advocacy combined with populist messaging about worker benefits.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Frames climate change as a key priority while emphasizing job creation and economic benefits, reflecting Democratic climate advocacy combined with populist messaging about worker benefits.""
+}",False
+2023-02-14 17:07:28,RepDanGoldman,I'm proud that our team recently helped NYCHA tenants in Campos Plaza II fix long-broken locks and regain access to…,Democrat,1,2023,biden-era,False,Democrat,Populist,78,Focus on helping low-income housing tenants with practical local issues reflects Democratic priorities and constituent service messaging typical of progressive senators.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 78,
+  ""reasoning"": ""Focus on helping low-income housing tenants with practical local issues reflects Democratic priorities and constituent service messaging typical of progressive senators.""
+}",False
+2021-08-02 15:55:28,SenatorShaheen,NH is facing a serious shortage in affordable housing that threatens to drive and  keep out young people and  families from NH. I'm committed to fighting for legislation and  policies that will help address this crisis by lowering costs and  expanding housing stock.,Democrat,1,2021,biden-era,False,Democrat,Populist,75,Focus on affordable housing as a pressing economic issue affecting working families reflects Democratic populist priorities of addressing cost-of-living concerns through government intervention.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Focus on affordable housing as a pressing economic issue affecting working families reflects Democratic populist priorities of addressing cost-of-living concerns through government intervention.""
+}",False
+2022-11-10 16:00:32,RepGregMurphy,Absolute waste of taxpayer money. The children are running the asylum.  is absolutely destroying this country,Republican,0,2022,biden-era,False,Republican,Populist,85,The tweet uses populist rhetoric criticizing government spending and leadership competence with charged language typical of Republican populist messaging.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet uses populist rhetoric criticizing government spending and leadership competence with charged language typical of Republican populist messaging.""
+}",False
+2021-02-25 18:17:01,SenJoniErnst,"A one-size-fits-all, Washington-mandated $15 minimum wage would be detrimental for Iowas small businesses. Dont just take it from me listen to what Iowa #smallbiz owners have to say about it:",Republican,0,2021,biden-era,False,Republican,Establishment,85,"The tweet opposes a federal minimum wage mandate by citing concerns about small businesses, a characteristic Republican economic argument against centralized federal policy.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet opposes a federal minimum wage mandate by citing concerns about small businesses, a characteristic Republican economic argument against centralized federal policy.""
+}",False
+2022-06-29 13:24:45,RepDavidRouzer,"A July 4th cookout will cost families 17% more than it did last year.
+
+This Administration’s failed economic polici…",Republican,0,2022,biden-era,False,Republican,Populist,85,"The tweet criticizes the current administration's economic policies and highlights inflation's impact on ordinary families, typical populist Republican messaging blaming Democrats for economic hardship.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes the current administration's economic policies and highlights inflation's impact on ordinary families, typical populist Republican messaging blaming Democrats for economic hardship.""
+}",False
+2021-04-13 00:54:17,HawleyMO,"Monopoly and liberty dont go together. No corporation should be so big and so powerful that it can override the voice of the people. We need a new trust busting agenda, from MLB to #BigTech",Republican,0,2021,biden-era,True,Democrat,Populist,75,"The tweet criticizes corporate monopolies and calls for trust-busting, which aligns with progressive/populist Democratic messaging about restraining corporate power.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet criticizes corporate monopolies and calls for trust-busting, which aligns with progressive/populist Democratic messaging about restraining corporate power.""
+}",False
+2023-01-04 17:00:30,DonaldNorcross,"I’m proud that my bill, the BRAVE Act, was included in the FY23 omnibus to support those men and women who defend o…",Democrat,1,2023,biden-era,False,Republican,Establishment,72,"The focus on military support and patriotic language ('defend our') with a named bill suggests establishment Republican priorities, though bipartisan omnibus bills can include various provisions.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The focus on military support and patriotic language ('defend our') with a named bill suggests establishment Republican priorities, though bipartisan omnibus bills can include various provisions.""
+}",False
+2021-02-26 00:14:55,ChrisVanHollen,"Special interests are infecting our democracy, disempowering voters and leaving them in the dark. The public has a right to know who is paying billions to influence their vote. We passed the #DISCLOSE Act in the House years ago, but McConnell blocked it. Time to get this done!",Democrat,1,2021,biden-era,False,Democrat,Populist,92,"Criticizes special interests and corporate money in politics while supporting campaign finance transparency legislation, populist themes aligned with Democratic messaging on democratic reform.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Criticizes special interests and corporate money in politics while supporting campaign finance transparency legislation, populist themes aligned with Democratic messaging on democratic reform.""
+}",False
+2023-02-11 17:11:39,RepTenney,My weekly newsletter is out! Click the link to read more about my work in Washington and across #NY24.,Republican,0,2023,biden-era,False,Democrat,Establishment,45,"The tweet is a routine constituent communication about a newsletter, which is non-partisan; the #NY24 hashtag suggests a New York representative, and the formal 'work in Washington' framing is typical of establishment Democrats, but the tweet lacks ideological content making classification difficult.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet is a routine constituent communication about a newsletter, which is non-partisan; the #NY24 hashtag suggests a New York representative, and the formal 'work in Washington' framing is typical of establishment Democrats, but the tweet lacks ideological content making classification difficult.""
+}",False
+2023-01-25 16:22:16,SpeakerMcCarthy,"A good education is the great equalizer. When parents are empowered to pick the best schools, students thrive.",Republican,0,2023,biden-era,False,Republican,Establishment,72,"Emphasis on school choice and parental empowerment reflects conservative education policy priorities, though the equality framing is somewhat moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasis on school choice and parental empowerment reflects conservative education policy priorities, though the equality framing is somewhat moderate.""
+}",False
+2021-11-12 17:24:14,maziehirono,"A true patriot,  is the definition of perseverance and strength. It is an honor to call her my colleague in the Senate, and more importantly, my dear friend.",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"The tweet's warm, collaborative tone praising a female colleague suggests alignment with Democratic values of institutional respect and bipartisan collegiality, typical of establishment Democrats.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet's warm, collaborative tone praising a female colleague suggests alignment with Democratic values of institutional respect and bipartisan collegiality, typical of establishment Democrats.""
+}",False
+2022-09-27 16:20:07,rosadelauro,"We must protect our supply chains and national security from foreign adversaries like China and Russia.
+
+Today, I j…",Democrat,1,2022,biden-era,False,Republican,Establishment,72,"Emphasis on national security, supply chain protection, and naming China and Russia as adversaries reflects traditional Republican foreign policy concerns, though the incomplete tweet limits full assessment.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasis on national security, supply chain protection, and naming China and Russia as adversaries reflects traditional Republican foreign policy concerns, though the incomplete tweet limits full assessment.""
+}",False
+2022-10-18 17:57:37,RepSchneider,Honored to speak with  President Brett Hart at the Eco Skies Alliance Summit about our work to pass my Susta…,Democrat,1,2022,biden-era,False,Democrat,Establishment,72,"Focus on environmental sustainability initiatives and collaborative legislative work aligns with Democratic priorities, though limited context prevents higher confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on environmental sustainability initiatives and collaborative legislative work aligns with Democratic priorities, though limited context prevents higher confidence.""
+}",False
+2021-01-22 16:44:41,SenatorFischer,Update: we all agree that moving guard from other states out of the Capitol complex was unacceptable. Glad to hear that those guardsmen have now been relocated back inside the Capitol for rest breaks. We cannot thank them enough for their service during this time.,Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet criticizes the removal of National Guard from the Capitol, a talking point primarily used by Republicans to criticize January 6th security decisions and Democratic leadership.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet criticizes the removal of National Guard from the Capitol, a talking point primarily used by Republicans to criticize January 6th security decisions and Democratic leadership.""
+}",False
+2022-12-23 02:55:40,RepScottPerry,Sorry to disappoint the keyboard warriors & lazy journalists like former CNN reporter  who shared a TO…,Republican,0,2022,biden-era,False,Republican,Populist,72,"The tweet dismisses critics as 'keyboard warriors' and attacks the media ('lazy journalists'), which reflects populist anti-establishment rhetoric commonly used by Republican senators.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet dismisses critics as 'keyboard warriors' and attacks the media ('lazy journalists'), which reflects populist anti-establishment rhetoric commonly used by Republican senators.""
+}",False
+2021-06-29 20:37:30,SenatorHassan,"Did you know that my office can help you navigate issues with federal agencies? From veterans services to social security benefits, we are here to help. Check out our new series on constituent success stories to see examples of how we can help you!",Democrat,1,2021,biden-era,False,Republican,Establishment,65,"The tweet emphasizes constituent services and direct office assistance, a hallmark of Republican messaging focused on government efficiency and local representation rather than policy advocacy typical of Democratic tweets.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet emphasizes constituent services and direct office assistance, a hallmark of Republican messaging focused on government efficiency and local representation rather than policy advocacy typical of Democratic tweets.""
+}",False
+2021-02-02 02:17:06,SenatorCollins,"Talks between our group and  the administration will continue as we work in good faith on a sixth bipartisan package to help struggling families, get students back to school, assist small businesses and employees, support healthcare providers, and  accelerate testing and  vaccine programs",Republican,0,2021,biden-era,True,Democrat,Establishment,72,"The emphasis on bipartisan cooperation, social safety net provisions (struggling families, small businesses, healthcare), and COVID relief programs aligns with Democratic priorities and establishment rhetoric focused on collaborative governance.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The emphasis on bipartisan cooperation, social safety net provisions (struggling families, small businesses, healthcare), and COVID relief programs aligns with Democratic priorities and establishment rhetoric focused on collaborative governance.""
+}",False
+2023-01-14 20:10:13,RepGregSteube,"This week, we voted to repeal Biden’s army of 87,000 IRS agents!
+This Republican House majority is just getting sta…",Republican,0,2023,biden-era,False,Republican,Populist,95,"The tweet opposes Biden's IRS funding expansion using populist framing about a large government workforce, which is a characteristically Republican and populist position against federal overreach.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 95,
+  ""reasoning"": ""The tweet opposes Biden's IRS funding expansion using populist framing about a large government workforce, which is a characteristically Republican and populist position against federal overreach.""
+}",False
+2021-07-23 19:15:29,SenGillibrand,"Right now, apps on your phone are collecting and selling your data without accountability for the very real harm they can cause. We need a Data Protection Agency to hold them accountable and we need it now.",Democrat,1,2021,biden-era,False,Democrat,Populist,78,"The tweet advocates for stronger consumer protection and government regulation to hold tech companies accountable, which aligns with Democratic populist priorities of protecting ordinary citizens from corporate exploitation.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 78,
+  ""reasoning"": ""The tweet advocates for stronger consumer protection and government regulation to hold tech companies accountable, which aligns with Democratic populist priorities of protecting ordinary citizens from corporate exploitation.""
+}",False
+2021-09-08 23:33:26,SenJohnKennedy,Looking for gas in Louisiana? Fill up your tank at one of these locations:,Republican,0,2021,biden-era,False,Republican,Establishment,45,"The tweet provides practical local information about gas stations, which is a service-oriented post typical of constituent assistance, but lacks sufficient partisan or ideological content for high confidence classification.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet provides practical local information about gas stations, which is a service-oriented post typical of constituent assistance, but lacks sufficient partisan or ideological content for high confidence classification.""
+}",False
+2022-08-03 20:35:29,RepMrvan,I am deeply saddened to learn of the sudden passing of my Indiana colleague and Congressional-district neighbor Rep. Jackie Walorski.,Democrat,1,2022,biden-era,False,Republican,Establishment,75,"The tweet references an Indiana colleague, indicating the author is likely a Republican Senator from Indiana, and the respectful, institutional tone reflects establishment decorum rather than populist messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet references an Indiana colleague, indicating the author is likely a Republican Senator from Indiana, and the respectful, institutional tone reflects establishment decorum rather than populist messaging.""
+}",False
+2022-09-16 16:23:25,RepGarbarino,"Freedom is not free. Today, on National POW/MIA Recognition Day, please join me in honoring the brave members of ou…",Republican,0,2022,biden-era,False,Republican,Establishment,45,"The tweet's patriotic messaging and focus on military honor are traditionally associated with Republican senators, though the theme is bipartisan and the limited content makes classification uncertain.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's patriotic messaging and focus on military honor are traditionally associated with Republican senators, though the theme is bipartisan and the limited content makes classification uncertain.""
+}",False
+2021-06-14 20:59:06,SenatorCarper,Glad I could join my buddy  for  #GrowSmartAwards. Improving our transportation infrastructure and saving our planet is no small task. We are working hard to pass a down payment on the #AmericanJobsPlan. Inaction isnt an option.,Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"The tweet promotes infrastructure investment, climate action, and the American Jobs Plan, which are core Democratic policy priorities, with language emphasizing collaboration and progressive governance.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet promotes infrastructure investment, climate action, and the American Jobs Plan, which are core Democratic policy priorities, with language emphasizing collaboration and progressive governance.""
+}",False
+2022-09-09 19:03:57,RepHarshbarger,Let’s not forget that President Biden tried to DICTATE your free speech with his failed Ministry of Truth.,Republican,0,2022,biden-era,False,Republican,Populist,92,"The tweet uses strong populist rhetoric ('DICTATE', 'Ministry of Truth') to criticize Biden's administration for alleged threats to free speech, which is characteristic of Republican populist messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet uses strong populist rhetoric ('DICTATE', 'Ministry of Truth') to criticize Biden's administration for alleged threats to free speech, which is characteristic of Republican populist messaging.""
+}",False
+2022-07-05 14:33:52,RepLoudermilk,Proud to work with my colleague  on legislation to strengthen school resource officer (SRO) program…,Republican,0,2022,biden-era,False,Republican,Establishment,72,Support for school resource officers reflects a law-and-order conservative priority that emphasizes police presence in schools rather than alternative safety approaches.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Support for school resource officers reflects a law-and-order conservative priority that emphasizes police presence in schools rather than alternative safety approaches.""
+}",False
+2022-09-20 14:27:35,RepSpartz,Thousands of Ukrainians who heroically defended Mariupol at Azovstal are being held as POWs by the Russians with no…,Republican,0,2022,biden-era,False,Democrat,Establishment,72,Focus on Ukrainian POWs and Russian conduct aligns with Democratic emphasis on international humanitarian concerns and criticism of Russia's military actions.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on Ukrainian POWs and Russian conduct aligns with Democratic emphasis on international humanitarian concerns and criticism of Russia's military actions.""
+}",False
+2021-09-11 19:33:28,SenTinaSmith,"I was also moved by Gold Star Mother Jill Stephenson, whose son Corporal Benjamin Koppan Army Rangermade the ultimate sacrifice while saving six of his fellow soldiers in Afghanistan.",Democrat,1,2021,biden-era,False,Republican,Establishment,45,"The tweet honors military sacrifice and a Gold Star family, themes common in conservative rhetoric, though the nonpartisan nature of honoring fallen soldiers makes this classification uncertain.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet honors military sacrifice and a Gold Star family, themes common in conservative rhetoric, though the nonpartisan nature of honoring fallen soldiers makes this classification uncertain.""
+}",False
+2021-07-29 15:10:33,SenatorHagerty,New bill would force White House to disclose Facebook censorship requests |,Republican,0,2021,biden-era,False,Republican,Populist,75,"The tweet criticizes government-social media collusion and demands transparency, which aligns with Republican populist concerns about Big Tech overreach and establishment accountability.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet criticizes government-social media collusion and demands transparency, which aligns with Republican populist concerns about Big Tech overreach and establishment accountability.""
+}",False
+2021-09-23 14:58:47,SenJohnBarrasso,John Kerry has been a disaster for a long time for our country. There are ways that we can certainly protect the environment without hurting the economy he apparently doesnt believe that.,Republican,0,2021,biden-era,False,Republican,Establishment,85,"Criticizes a Democratic official (John Kerry) for environmental policies that allegedly harm the economy, reflecting Republican priorities of skepticism toward aggressive climate action.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""Criticizes a Democratic official (John Kerry) for environmental policies that allegedly harm the economy, reflecting Republican priorities of skepticism toward aggressive climate action.""
+}",False
+2021-11-13 15:00:00,SenatorRomney,"Utahnsincluding state and local leadersknow whats best for Utah, not Washington. Our bipartisan infrastructure bill provides funding for key infrastructure projects like roads, bridges, highways, water, and broadband. The best part? Our state will decide where the money goes.",Republican,0,2021,biden-era,True,Republican,Establishment,72,"Emphasizes state autonomy over federal control and supports bipartisan infrastructure spending, reflecting establishment Republican pragmatism while maintaining federalist principles.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasizes state autonomy over federal control and supports bipartisan infrastructure spending, reflecting establishment Republican pragmatism while maintaining federalist principles.""
+}",False
+2021-10-28 22:58:28,Sen_JoeManchin,As we work through the text of the legislation I would hope all of us will continue to deal in good faith and do what is right for the future of the American people.,Democrat,1,2021,biden-era,True,Republican,Establishment,45,"The measured, bipartisan tone emphasizing good faith negotiation and national interest suggests an establishment-oriented senator, but the vague rhetoric lacks strong partisan markers making confidence moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The measured, bipartisan tone emphasizing good faith negotiation and national interest suggests an establishment-oriented senator, but the vague rhetoric lacks strong partisan markers making confidence moderate.""
+}",False
+2022-12-19 16:19:17,RepRichardNeal,MA’s own  has been a friend to Ireland & understands the immense progress that has been made since the G…,Democrat,1,2022,biden-era,False,Democrat,Establishment,45,"The tweet's focus on international relations and diplomatic progress suggests an establishment-oriented Democrat, though limited content makes confident classification difficult.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on international relations and diplomatic progress suggests an establishment-oriented Democrat, though limited content makes confident classification difficult.""
+}",False
+2023-01-09 22:35:09,DesJarlaisTN04,Every day I am thankful for the service and sacrifice of our law enforcement officers. We owe a debt of gratitude t…,Republican,0,2023,biden-era,False,Republican,Establishment,72,"Strong support for law enforcement with traditional gratitude framing is characteristic of Republican messaging, though the incomplete nature limits certainty.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Strong support for law enforcement with traditional gratitude framing is characteristic of Republican messaging, though the incomplete nature limits certainty.""
+}",False
+2022-12-08 21:36:32,RepRaulRuizMD,"Once again, I voted yes for the #RespectforMarriageAct. Now, this long overdue legislation to protect all marriages…",Democrat,1,2022,biden-era,False,Democrat,Establishment,75,"Support for marriage equality legislation aligns with Democratic values, though the measured tone and institutional approach suggests establishment rather than populist positioning.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""Support for marriage equality legislation aligns with Democratic values, though the measured tone and institutional approach suggests establishment rather than populist positioning.""
+}",False
+2021-12-01 14:21:04,MarkWarner,"The Supreme Court is hearing a case today that could overturn the decades of precedent set by Roe v. Wade. Let me be clear: abortion care is health care, and I remain committed to protecting that.",Democrat,1,2021,biden-era,False,Democrat,Populist,95,Strong support for abortion rights and framing it as healthcare aligns with Democratic messaging on reproductive freedom and protecting established precedent.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 95,
+  ""reasoning"": ""Strong support for abortion rights and framing it as healthcare aligns with Democratic messaging on reproductive freedom and protecting established precedent.""
+}",False
+2021-03-09 15:32:40,SenTomCotton,Criminal organizations and drug cartels that terrorize our communities ought to be treated like terrorist groups in the eyes of the U.S. government. Our bill would help stop cartel violence by ensuring these groups face dire consequences for their actions.,Republican,0,2021,biden-era,False,Republican,Populist,72,"The tweet uses strong law-and-order language with emphasis on harsh consequences for criminal organizations, appealing to populist concerns about community safety and border security.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet uses strong law-and-order language with emphasis on harsh consequences for criminal organizations, appealing to populist concerns about community safety and border security.""
+}",False
+2021-04-14 17:05:06,SenSchumer,We must all stand up against the recent surge of anti-Asian violence. The Senate this week will vote on  and  COVID Hate Crimes Bill to help #StopAsianHate.,Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"The tweet addresses anti-Asian violence and supports a specific Senate bill, reflecting Democratic priorities on civil rights and criminal justice issues.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet addresses anti-Asian violence and supports a specific Senate bill, reflecting Democratic priorities on civil rights and criminal justice issues.""
+}",False
+2021-03-03 21:29:56,SenJohnKennedy,Banking isnt a red vs. blue battleground. Law-abiding Americans should have access to financial services without banks' playing politics.,Republican,0,2021,biden-era,False,Republican,Populist,72,"The tweet criticizes banks for 'playing politics' and frames financial access as a populist issue against institutional gatekeeping, while avoiding partisan language that suggests Democrat framing.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet criticizes banks for 'playing politics' and frames financial access as a populist issue against institutional gatekeeping, while avoiding partisan language that suggests Democrat framing.""
+}",False
+2023-01-10 20:22:11,RepJamesComer,"🚨Dems spent trillions & ignited historic inflation. 
+
+🚨Dems formed dystopian disinformation boards to police Americ…",Republican,0,2023,biden-era,False,Republican,Populist,92,The tweet criticizes Democrats for inflation and government overreach using populist language about protecting Americans from elite control.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Democrats for inflation and government overreach using populist language about protecting Americans from elite control.""
+}",False
+2022-12-08 23:17:57,RepBonamici,"Astoria is known for its riverfront businesses built atop piers on wooden pilings. On this day in 1922, those woode…",Democrat,1,2022,biden-era,False,Democrat,Establishment,35,"The tweet appears to be a historical/informational post about a local community rather than a clearly partisan political statement, making classification uncertain.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 35,
+  ""reasoning"": ""The tweet appears to be a historical/informational post about a local community rather than a clearly partisan political statement, making classification uncertain.""
+}",False
+2021-07-19 16:41:41,SenAngusKing,"Any bipartisan infrastructure package must include a significant investment to help Maine people statewide access the opportunities provided by affordable, high-speed broadband. Lets keep working, and get this bill done for the American people.",Democrat,1,2021,biden-era,True,Democrat,Establishment,72,"The tweet emphasizes bipartisan cooperation, infrastructure investment, and broadband access for rural communities, which aligns with Democratic priorities while the collaborative tone and focus on getting bills done reflects establishment pragmatism.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes bipartisan cooperation, infrastructure investment, and broadband access for rural communities, which aligns with Democratic priorities while the collaborative tone and focus on getting bills done reflects establishment pragmatism.""
+}",False
+2022-03-22 22:19:38,RodneyDavis,Happy National Ag Day and National Ag Week. It’s a privilege to serve as a member of  and be a voice for…,Republican,0,2022,biden-era,False,Republican,Establishment,65,"Focus on agricultural interests and committee membership suggests a Senator from a rural/agricultural state, more commonly associated with Republican representation.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on agricultural interests and committee membership suggests a Senator from a rural/agricultural state, more commonly associated with Republican representation.""
+}",False
+2021-03-11 00:12:27,SenatorShaheen,Wazhma Frogh and other Afghan women have risked their lives in pursuit of a peaceful and just Afghanistan. The U.S. must uphold our commitment to them and to the people of Afghanistan.,Democrat,1,2021,biden-era,False,Democrat,Establishment,75,"The tweet emphasizes commitment to Afghan women's rights and international humanitarian values, which aligns with Democratic emphasis on global human rights and progressive causes.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet emphasizes commitment to Afghan women's rights and international humanitarian values, which aligns with Democratic emphasis on global human rights and progressive causes.""
+}",False
+2022-12-08 04:20:12,RepThompson,Congratulations to the City of Rohnert Park on their annual tree lighting celebration!,Democrat,1,2022,biden-era,False,Republican,Establishment,45,"Nonpartisan local community engagement tweet with no clear ideological markers, slightly more consistent with Republican senators' localized constituent service messaging style.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""Nonpartisan local community engagement tweet with no clear ideological markers, slightly more consistent with Republican senators' localized constituent service messaging style.""
+}",False
+2021-11-09 19:20:53,SenSanders,"The wealthy must start paying their fair share of taxes. We must lower the cost of prescription drugs through Medicare negotiations. We must expand Medicare to cover dental, hearing and vision. We must expand Medicaid to improve home health care coverage.",Democrat,1,2021,biden-era,True,Democrat,Populist,92,"The tweet advocates for progressive tax policies on the wealthy, Medicare expansion, and drug cost reduction—all populist Democratic priorities focused on helping working and middle-class Americans.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet advocates for progressive tax policies on the wealthy, Medicare expansion, and drug cost reduction—all populist Democratic priorities focused on helping working and middle-class Americans.""
+}",False
+2021-08-31 18:42:00,maziehirono,"That abortion case you think the Supreme Court will use to take down Roe next year? It might not matter. The Court can end abortion rights tonight, without any oral arguments. They're hoping we don't notice. #BansOffOurBodies",Democrat,1,2021,biden-era,False,Democrat,Populist,92,"The tweet defends abortion rights and expresses distrust of the Supreme Court's intentions, which are characteristic Democratic positions, particularly appealing to the party's base on this social issue.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet defends abortion rights and expresses distrust of the Supreme Court's intentions, which are characteristic Democratic positions, particularly appealing to the party's base on this social issue.""
+}",False
+2021-04-07 19:51:03,SenatorWarnock,Last week I met with farmers and  producers across six Georgia counties to learnwhat morethe federalgovernment can do to help themnavigate thesupply chainchallengesbrought on by COVID-19.Im committedto continuing toamplifytheir voices and  stories in Congress.,Democrat,1,2021,biden-era,False,Republican,Establishment,72,"The focus on meeting with farmers and emphasizing constituent service with federal support reflects typical Republican establishment communication, though the non-partisan nature of the content and lack of partisan criticism limits confidence.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The focus on meeting with farmers and emphasizing constituent service with federal support reflects typical Republican establishment communication, though the non-partisan nature of the content and lack of partisan criticism limits confidence.""
+}",False
+2021-03-04 20:10:20,SenatorHagerty,. and I have sent a letter to  urging the Administration to work with our allies and partners to impose a new arms embargo on Iran.,Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet advocates for hawkish foreign policy toward Iran through coordinated international action, which aligns with traditional Republican establishment positions on Middle East security.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet advocates for hawkish foreign policy toward Iran through coordinated international action, which aligns with traditional Republican establishment positions on Middle East security.""
+}",False
+2021-09-26 21:38:30,senrobportman,"We need cybersecurity accountability in our fed govt to ensure a more effective national defense against cyberattacks, especially in the wake of the most recent ManageEngine cyberattack and  increased cyberattacks against the private sector and  federal agencies.",Republican,0,2021,biden-era,False,Republican,Establishment,72,"The focus on federal government accountability, national defense, and cybersecurity threats reflects establishment Republican priorities around government efficiency and security, though the bipartisan nature of cybersecurity issues makes confidence moderate.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The focus on federal government accountability, national defense, and cybersecurity threats reflects establishment Republican priorities around government efficiency and security, though the bipartisan nature of cybersecurity issues makes confidence moderate.""
+}",False
+2022-12-03 22:57:12,RepCori,"Today & every day, we must continue to uplift and advance policies that affirm the dignity, safety, and well-being…",Democrat,1,2022,biden-era,False,Democrat,Populist,72,"The language emphasizing dignity, safety, and well-being of people reflects Democratic values of social welfare and human rights advocacy.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""The language emphasizing dignity, safety, and well-being of people reflects Democratic values of social welfare and human rights advocacy.""
+}",False
+2021-09-07 17:55:47,MikeCrapo,"ICYMI, my friend  had a great piece in the WSJ last month. The Democrats proposed double-death tax would suffocate economic growth, job creation and capital formation needed to improve productivity and reduce inflation.",Republican,0,2021,biden-era,False,Republican,Establishment,92,"The tweet criticizes Democratic tax policy (death tax) using economic arguments about growth and job creation, which are typical Republican talking points.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Democratic tax policy (death tax) using economic arguments about growth and job creation, which are typical Republican talking points.""
+}",False
+2021-10-08 22:00:20,SenatorTimScott,The Democrats want to weaponize the IRS. They are frantically looking for a way to generate revenue to offset the trillions of dollars they plan to recklessly spend.,Republican,0,2021,biden-era,False,Republican,Populist,92,"The tweet uses partisan attack language against Democrats, accuses them of weaponizing government agencies, and criticizes reckless spending in a populist anti-establishment framing.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet uses partisan attack language against Democrats, accuses them of weaponizing government agencies, and criticizes reckless spending in a populist anti-establishment framing.""
+}",False
+2021-06-16 01:39:20,ChrisCoons,"Today, I also joined my colleagues in calling on the administration to address the backlogs and processing delays for DACA recipients, which impact not only the individuals who depend on them, but their families and the workplaces that employ them.",Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"Advocacy for DACA recipients and support for immigration-friendly policies is a characteristic Democratic position, and the collaborative, institutional tone suggests establishment rather than populist approach.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""Advocacy for DACA recipients and support for immigration-friendly policies is a characteristic Democratic position, and the collaborative, institutional tone suggests establishment rather than populist approach.""
+}",False
+2021-10-31 19:28:26,SenatorHagerty,"It is inexcusable that the Biden Admin refuses to support the tireless work of law enforcement agents to prevent unknown, potentially dangerous persons from entering the U.S. Its time to stop putting politics over national security and secure the border.",Republican,0,2021,biden-era,False,Republican,Establishment,92,"Criticizes Biden administration on border security and law enforcement support, using nationalist security framing typical of Republican messaging without populist anti-establishment rhetoric.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""Criticizes Biden administration on border security and law enforcement support, using nationalist security framing typical of Republican messaging without populist anti-establishment rhetoric.""
+}",False
+2021-03-25 21:10:57,SenGaryPeters,"Today, I proudly voted to extend the Paycheck Protection Program because it's critical we give our small businesses and workers the support they need to stay afloat during this unprecedented economic crisis. I'll keep fighting for small businesses across Michigan.",Democrat,1,2021,biden-era,False,Republican,Establishment,72,"Support for PPP extension with pro-business framing is typical of Republican economic policy, though the moderate tone and lack of partisan rhetoric suggests establishment rather than populist positioning.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Support for PPP extension with pro-business framing is typical of Republican economic policy, though the moderate tone and lack of partisan rhetoric suggests establishment rather than populist positioning.""
+}",False
+2021-07-19 18:15:07,SenatorLankford,"The  is failing Oklahomans and  the nation. I want answers why Oklahomans are facing long delays and  hearing radio silence. America is back to work, its past time for the State Department to get back to work also.",Republican,0,2021,biden-era,False,Republican,Populist,75,"The tweet criticizes government agency performance and demands accountability while emphasizing work ethic, reflecting populist anti-establishment themes common in Republican messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet criticizes government agency performance and demands accountability while emphasizing work ethic, reflecting populist anti-establishment themes common in Republican messaging.""
+}",False
+2021-03-16 14:03:39,SenatorCollins,". in Portland has received more than $3.6 million to build, test, and  operate a river-powered turbine. This federal funding will accelerate the companys efforts to provide Mainers with clean, affordable energy.",Republican,0,2021,biden-era,True,Democrat,Establishment,78,"The tweet celebrates federal funding for clean energy infrastructure, which aligns with Democratic priorities on climate and environmental policy.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 78,
+  ""reasoning"": ""The tweet celebrates federal funding for clean energy infrastructure, which aligns with Democratic priorities on climate and environmental policy.""
+}",False
+2023-01-17 17:57:49,RepMalliotakis,We’ve long said  must get it’s fiscal house in order & not ask commuters to shell out more. The utter mismanage…,Republican,0,2023,biden-era,False,Republican,Populist,72,"Criticizes government fiscal mismanagement and opposes increased taxes on commuters, reflecting conservative fiscal concerns and populist messaging against perceived government inefficiency.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Criticizes government fiscal mismanagement and opposes increased taxes on commuters, reflecting conservative fiscal concerns and populist messaging against perceived government inefficiency.""
+}",False
+2021-02-04 19:07:30,lisamurkowski,"Every community has felt the impacts of #COVID19, but the financial disruption and health disparities it has caused have not been spread equally, as rural and remote communities have been particularly devastated.",Republican,0,2021,biden-era,True,Democrat,Populist,75,"The tweet emphasizes health disparities and the disproportionate impact on marginalized communities, which are Democratic priorities, while adopting a populist focus on rural and remote communities being left behind.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet emphasizes health disparities and the disproportionate impact on marginalized communities, which are Democratic priorities, while adopting a populist focus on rural and remote communities being left behind.""
+}",False
+2021-08-13 18:20:00,SenatorHassan,"This is welcome news. The #ChildTaxCredit is making a huge difference. And today, the second round is on its way to help millions of American families.",Democrat,1,2021,biden-era,False,Democrat,Populist,75,Support for the Child Tax Credit expansion reflects Democratic priorities around direct assistance to working families and progressive social welfare policies.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Support for the Child Tax Credit expansion reflects Democratic priorities around direct assistance to working families and progressive social welfare policies.""
+}",False
+2021-08-30 20:13:39,SenKevinCramer,"This week's newsletter includes the  plans for the  the  new facilities in Fargo, North Dakota's work to end the moratorium on oil and gas leasing on public lands, and my statement on the terrorist attacks in Kabul. Read it here",Republican,0,2021,biden-era,False,Republican,Establishment,75,"Support for oil and gas leasing on public lands is a characteristic Republican energy policy position, while the focus on constituent services and infrastructure reflects establishment politics.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""Support for oil and gas leasing on public lands is a characteristic Republican energy policy position, while the focus on constituent services and infrastructure reflects establishment politics.""
+}",False
+2021-10-19 17:39:59,SenatorMenendez,"The darker the blue, the higher the projected increase in flood insurance premiums under  new Risk Rating . This map via  makes it clear this isnt just about wealthy coastal communities. Unless this program is reformed, it will impact families all across NJ.",Democrat,1,2021,biden-era,False,Democrat,Populist,75,"The tweet criticizes a federal program for disproportionately harming working families across the state, reflecting populist concern for ordinary citizens over elite interests, consistent with Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet criticizes a federal program for disproportionately harming working families across the state, reflecting populist concern for ordinary citizens over elite interests, consistent with Democratic messaging.""
+}",False
+2022-09-20 20:20:43,RepSummerLee,Grants addressing community violence are now available. These grants fund preventative efforts and organized measur…,Democrat,1,2022,biden-era,False,Democrat,Establishment,72,Focus on community violence prevention and organized measures reflects Democratic emphasis on proactive social programs and public safety interventions.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on community violence prevention and organized measures reflects Democratic emphasis on proactive social programs and public safety interventions.""
+}",False
+2021-11-18 16:00:02,SenAngusKing,"Maines first responders put their lives on the line for our communities, going beyond the call of duty during the pandemic. Great to see Ellsworth is giving these local heroes well-earned hazard pay from the #AmericanRescuePlan for their work.",Democrat,1,2021,biden-era,True,Democrat,Establishment,85,"The tweet praises the American Rescue Plan (a Democratic-backed stimulus package) and celebrates hazard pay for first responders, reflecting Democratic priorities around pandemic relief and worker support.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet praises the American Rescue Plan (a Democratic-backed stimulus package) and celebrates hazard pay for first responders, reflecting Democratic priorities around pandemic relief and worker support.""
+}",False
+2022-11-18 17:49:30,RepCicilline,"Glad to see  is planning on focusing on things affecting everyday Americans, like gas prices and inflation…",Democrat,1,2022,biden-era,False,Republican,Populist,75,Focus on gas prices and inflation as everyday concerns reflects populist Republican messaging that prioritizes economic pressures over progressive policy initiatives.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Focus on gas prices and inflation as everyday concerns reflects populist Republican messaging that prioritizes economic pressures over progressive policy initiatives.""
+}",False
+2022-02-04 02:10:00,RepFitzgerald,Americans know the border is a disaster. I joined my colleagues in demanding detailed data so Congress can take act…,Republican,0,2022,biden-era,False,Republican,Populist,78,"The tweet characterizes the border as a 'disaster' and demands action, using populist language that appeals to border security concerns prominent in Republican messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 78,
+  ""reasoning"": ""The tweet characterizes the border as a 'disaster' and demands action, using populist language that appeals to border security concerns prominent in Republican messaging.""
+}",False
+2022-01-16 17:52:32,RepDavid,Tomorrow all Arizona national parks will have free entry in honor of MLK Day. Plan ahead & visit…,Republican,0,2022,biden-era,False,Democrat,Establishment,72,Honoring MLK Day and promoting national parks reflects Democratic values of civil rights commemoration and environmental conservation.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Honoring MLK Day and promoting national parks reflects Democratic values of civil rights commemoration and environmental conservation.""
+}",False
+2021-09-23 16:51:58,SenGaryPeters,"years ago today, the Patients Bill of Rightswhich protects Americans with pre-existing health conditions from discrimination and ended lifetime limits on healthcare coveragewent into effect. These protections are more important than ever during this pandemic.",Democrat,1,2021,biden-era,False,Democrat,Establishment,92,"The tweet celebrates the Affordable Care Act's protections for pre-existing conditions, a signature Democratic legislative achievement that Republicans have consistently opposed.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet celebrates the Affordable Care Act's protections for pre-existing conditions, a signature Democratic legislative achievement that Republicans have consistently opposed.""
+}",False
+2022-08-21 16:29:44,RepDianaDeGette,"This story is heartbreaking, but the GOP’s extreme agenda and the horrors they’re forcing on women across the count…",Democrat,1,2022,biden-era,False,Democrat,Populist,92,"The tweet criticizes the GOP's agenda regarding women's issues using strong emotional language ('heartbreaking,' 'horrors'), which is characteristic of Democratic messaging on reproductive rights and populist appeals to protect vulnerable groups.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes the GOP's agenda regarding women's issues using strong emotional language ('heartbreaking,' 'horrors'), which is characteristic of Democratic messaging on reproductive rights and populist appeals to protect vulnerable groups.""
+}",False
+2021-06-03 13:03:49,SenSherrodBrown,"When a child dies in foster care, the system has failed. It failed MaKhia Bryant. On behalf of Ma'Khia's parents,  and I are calling for a federal investigation into the events leading up to their daughters death.",Democrat,1,2021,biden-era,True,Democrat,Populist,85,"The tweet focuses on systemic failure in foster care and advocates for federal investigation into a specific case of a child's death, reflecting progressive concerns about government accountability and vulnerable populations.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet focuses on systemic failure in foster care and advocates for federal investigation into a specific case of a child's death, reflecting progressive concerns about government accountability and vulnerable populations.""
+}",False
+2021-09-15 01:57:10,HawleyMO,Joining  tonight to talk about Joe Bidens disgraceful betrayal of Americans in Afghanistan and my pledge to block Biden nominees until there is accountability,Republican,0,2021,biden-era,True,Republican,Populist,92,"The tweet uses strong partisan language ('disgraceful betrayal'), opposes Biden's policies, and employs hardline tactics (blocking nominees), which are characteristic of Republican populist messaging.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet uses strong partisan language ('disgraceful betrayal'), opposes Biden's policies, and employs hardline tactics (blocking nominees), which are characteristic of Republican populist messaging.""
+}",False
+2021-11-18 18:47:38,SenatorLujan,"Great catching up with  on the Bipartisan Infrastructure Deal and the priorities that I secured to safeguard our environment and create jobs, prevent drunk and impaired driving, and invest in our infrastructure. Listen",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"The tweet emphasizes bipartisan cooperation, environmental protection, job creation, and infrastructure investment—priorities typically aligned with Democratic policy goals, while the establishment stance reflects cooperation across party lines rather than populist messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes bipartisan cooperation, environmental protection, job creation, and infrastructure investment—priorities typically aligned with Democratic policy goals, while the establishment stance reflects cooperation across party lines rather than populist messaging.""
+}",False
+2022-03-16 14:27:48,RepAOC,Our team is hiring! We’re looking for a constituent liaison in Queens to manage casework related to the federal gov…,Democrat,1,2022,biden-era,False,Democrat,Establishment,65,"A hiring announcement for constituent services in Queens indicates a Democratic senator representing New York, with an establishment focus on constituent casework management.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""A hiring announcement for constituent services in Queens indicates a Democratic senator representing New York, with an establishment focus on constituent casework management.""
+}",False
+2023-02-14 23:02:00,repvalhoyle,"What a great birthday wish from my friend and fellow port enthusiast  
+
+He's right - nobody loves talk…",Democrat,1,2023,biden-era,False,Republican,Establishment,45,"The tweet's casual, friendly tone and focus on personal relationships with minimal political content makes classification difficult, but the informal style and emphasis on port infrastructure suggests a pragmatic Republican approach.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's casual, friendly tone and focus on personal relationships with minimal political content makes classification difficult, but the informal style and emphasis on port infrastructure suggests a pragmatic Republican approach.""
+}",False
+2021-08-02 21:17:19,repdavidscott,"Thank you, Mary, for trusting our team to assist with this case! If you need help with the IRS or another federal a…",Democrat,1,2021,biden-era,False,Republican,Establishment,45,"The tweet demonstrates constituent service and casework assistance, which is typical bipartisan Senate messaging, but the fragmented nature and focus on individual case help aligns slightly more with Republican service-oriented communication patterns.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet demonstrates constituent service and casework assistance, which is typical bipartisan Senate messaging, but the fragmented nature and focus on individual case help aligns slightly more with Republican service-oriented communication patterns.""
+}",False
+2021-10-10 17:27:09,SenSanders,"Maybe, just maybe, Congress might want to serve the needs of the American people, and not wealthy campaign contributors. A new CBS poll finds overwhelming support for these provisions in the $3.5T Reconciliation Bill.",Democrat,1,2021,biden-era,True,Democrat,Populist,92,"The tweet criticizes wealthy campaign contributors, advocates for serving ordinary Americans, and supports a large reconciliation spending bill—all hallmarks of populist Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes wealthy campaign contributors, advocates for serving ordinary Americans, and supports a large reconciliation spending bill—all hallmarks of populist Democratic messaging.""
+}",False
+2022-09-06 18:27:12,RepGregSteube,"California is in a state of emergency and their grid can’t handle electric vehicle charging.
+
+How is banning all ga…",Republican,0,2022,biden-era,False,Republican,Populist,85,"The tweet criticizes California's energy policies and electric vehicle mandates, arguing the state cannot support them, which aligns with Republican skepticism of aggressive green energy policies.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes California's energy policies and electric vehicle mandates, arguing the state cannot support them, which aligns with Republican skepticism of aggressive green energy policies.""
+}",False
+2021-06-13 13:26:41,SenGaryPeters,The  proposed budget is insufficient for addressing PFAS contamination at military installations. I raised this with  Austin and  he committed to working to remediate these sites. WATCH,Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"The tweet addresses environmental contamination at military sites and advocates for increased budget spending on remediation, reflecting progressive environmental concerns typical of Democratic senators.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet addresses environmental contamination at military sites and advocates for increased budget spending on remediation, reflecting progressive environmental concerns typical of Democratic senators.""
+}",False
+2023-02-12 21:07:08,RepOgles,"“Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand.”
+
+Matthew 12:25b ESV",Republican,0,2023,biden-era,False,Republican,Populist,45,"The biblical reference to division suggests messaging about national unity, which appears more aligned with conservative framing, though the low confidence reflects that this is primarily a religious quote without explicit partisan content.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 45,
+  ""reasoning"": ""The biblical reference to division suggests messaging about national unity, which appears more aligned with conservative framing, though the low confidence reflects that this is primarily a religious quote without explicit partisan content.""
+}",False
+2023-01-10 17:53:17,RepMcGovern,"House Republicans promised to come to Washington & fight for lower costs.
+
+The very first bill they put on the floo…",Democrat,1,2023,biden-era,False,Democrat,Populist,75,"Critiques House Republicans for failing to deliver on cost-of-living promises, using populist language about fighting for everyday Americans while attacking the opposing party's legislative priorities.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Critiques House Republicans for failing to deliver on cost-of-living promises, using populist language about fighting for everyday Americans while attacking the opposing party's legislative priorities.""
+}",False
+2021-07-06 20:02:20,SenSherrodBrown,"For the first time in decades, we are starting to see workers get some real bargaining power. Employers are getting the memo: pay workers more and treat them with dignity.",Democrat,1,2021,biden-era,True,Democrat,Populist,85,"The tweet emphasizes worker empowerment and corporate accountability, with language about dignity and fair compensation that aligns with progressive populist labor advocacy.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet emphasizes worker empowerment and corporate accountability, with language about dignity and fair compensation that aligns with progressive populist labor advocacy.""
+}",False
+2022-07-29 19:51:15,RepPeteStauber,ICYMI: It’s far past time to get the Federal government out of the way and allow state and local authorities to man…,Republican,0,2022,biden-era,False,Republican,Populist,75,Emphasis on reducing federal government authority and empowering state/local control reflects conservative federalism principles typically espoused by Republicans.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""Emphasis on reducing federal government authority and empowering state/local control reflects conservative federalism principles typically espoused by Republicans.""
+}",False
+2021-06-10 21:24:11,SenAngusKing,"Im gravely concerned about the safety of the men and women of Afghanistan who supported the mission of the U.S. troops as we withdraw. Today I urged  and  to help advance their expatriation process for strategic but more importantly, moral reasons.",Democrat,1,2021,biden-era,True,Republican,Establishment,72,"Expresses concern about Afghanistan withdrawal implementation and advocates for supporting those who worked with U.S. troops, reflecting establishment Republican foreign policy priorities rather than populist criticism of interventionism.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Expresses concern about Afghanistan withdrawal implementation and advocates for supporting those who worked with U.S. troops, reflecting establishment Republican foreign policy priorities rather than populist criticism of interventionism.""
+}",False
+2021-06-26 17:20:43,HawleyMO,"Four THOUSAND people gathered to worship with  #letusworship last night in Chicago on heroin highway, where there have been multiple shootings in just the last few days. Amazing!",Republican,0,2021,biden-era,True,Republican,Populist,75,"The tweet highlights a faith-based community gathering in a struggling neighborhood with high crime, using rhetoric that emphasizes American resilience and religious values while implicitly critiquing urban Democratic governance.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet highlights a faith-based community gathering in a struggling neighborhood with high crime, using rhetoric that emphasizes American resilience and religious values while implicitly critiquing urban Democratic governance.""
+}",False
+2023-01-25 21:58:21,RepHoulahan,"Earlier today I met w/  author of the series ""What to Expect When You're Expecting,"" which I read whe…",Democrat,1,2023,biden-era,False,Democrat,Establishment,45,"The tweet's focus on a personal meeting with an author of parenting guidance material and lack of partisan rhetoric suggests a moderate Democrat, though insufficient political content makes confidence low.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on a personal meeting with an author of parenting guidance material and lack of partisan rhetoric suggests a moderate Democrat, though insufficient political content makes confidence low.""
+}",False
+2022-11-15 18:00:12,RepDonaldPayne,"One year ago,  signed the Infrastructure Investment and Jobs Act into law, kicking off an…",Democrat,1,2022,biden-era,False,Democrat,Establishment,85,"The tweet celebrates a major Biden administration legislative accomplishment (Infrastructure Investment and Jobs Act), which is characteristic of Democratic establishment messaging highlighting Democratic governance achievements.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet celebrates a major Biden administration legislative accomplishment (Infrastructure Investment and Jobs Act), which is characteristic of Democratic establishment messaging highlighting Democratic governance achievements.""
+}",False
+2021-07-04 15:54:30,SenRickScott,"Spoke to  Director Ken Graham about Tropical Storm #Elsa again this morning. Tropical storm watches and  warnings have been issued for the Keys and  Southwest Florida. Floridians should keep watching this storm and  be prepared for severe weather, heavy rain and  storm surge.",Republican,0,2021,biden-era,False,Republican,Establishment,72,"The tweet focuses on practical disaster preparedness and coordination with federal agencies, which is characteristic of establishment Republican senators from affected states like Florida.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet focuses on practical disaster preparedness and coordination with federal agencies, which is characteristic of establishment Republican senators from affected states like Florida.""
+}",False
+2022-11-26 16:50:41,RepSusieLee,Small businesses are the fabric of our economy here in Southern Nevada. Get out there and #ShopSmall for all your n…,Democrat,1,2022,biden-era,False,Republican,Establishment,65,"Emphasis on small business and localized economic support aligns with Republican economic messaging, though the non-partisan nature of the tweet and absence of partisan rhetoric creates moderate confidence.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Emphasis on small business and localized economic support aligns with Republican economic messaging, though the non-partisan nature of the tweet and absence of partisan rhetoric creates moderate confidence.""
+}",False
+2021-08-10 20:09:19,SenatorCollins,I was proud to partner w/  to lead the negotiations on one of the most significant provisions for Maine -- $65 billion to expand high-speed Internet access. Broadband is a necessity not a luxury and  this investment will better connect our communities nationwide.,Republican,0,2021,biden-era,True,Democrat,Establishment,72,"The focus on infrastructure investment and bipartisan collaboration reflects Democratic policy priorities, while the measured tone and emphasis on working across party lines suggests establishment rather than populist positioning.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The focus on infrastructure investment and bipartisan collaboration reflects Democratic policy priorities, while the measured tone and emphasis on working across party lines suggests establishment rather than populist positioning.""
+}",False
+2021-07-15 02:36:00,SenTomCotton,The House should pass this bill immediately and send it to President Bidens desk. The U.S. cannot support forced labor and religious persecution.,Republican,0,2021,biden-era,False,Democrat,Establishment,72,"Support for Biden and human rights legislation reflects Democratic establishment values, though the framing around forced labor and religious persecution could appeal across parties.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Support for Biden and human rights legislation reflects Democratic establishment values, though the framing around forced labor and religious persecution could appeal across parties.""
+}",False
+2021-01-20 17:41:33,SenAngusKing,"A divided nation, where a few conflict-seeking voices on the fringes seem to drown out the majority who long for compromise. In the middle of these crises and more, we cannot simply settle into business-as-usual.",Democrat,1,2021,biden-era,True,Democrat,Establishment,72,"The emphasis on compromise, avoiding fringe voices, and rejecting 'business-as-usual' aligns with mainstream Democratic establishment rhetoric about unity and pragmatic governance.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The emphasis on compromise, avoiding fringe voices, and rejecting 'business-as-usual' aligns with mainstream Democratic establishment rhetoric about unity and pragmatic governance.""
+}",False
+2023-02-05 17:56:15,RepMTG,"Trump, top national security officials refute claim that Chinese spy balloons transited US under last admin.
+
+There…",Republican,0,2023,biden-era,False,Democrat,Establishment,72,"The tweet defends the previous (Biden) administration against Trump criticism regarding Chinese spy balloons, using official sources to counter Trump's claims, which is typical establishment Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet defends the previous (Biden) administration against Trump criticism regarding Chinese spy balloons, using official sources to counter Trump's claims, which is typical establishment Democratic messaging.""
+}",False
+2021-11-01 14:26:39,SenatorRomney,"Without the filibuster, whenever one party replaced the other as majority, tax and spending priorities, safety-net programs, and foreign policy would careen from one extreme to the other, creating uncertainty for families, employers, and global partners.",Republican,0,2021,biden-era,True,Democrat,Establishment,72,"The tweet defends the filibuster by emphasizing stability and bipartisanship, a position more commonly held by establishment Democrats concerned with institutional preservation and consensus governance.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet defends the filibuster by emphasizing stability and bipartisanship, a position more commonly held by establishment Democrats concerned with institutional preservation and consensus governance.""
+}",False
+2021-06-09 18:36:15,SenSherrodBrown,Incredibly proud of the work we do on the  and Housing Committee - take a look.,Democrat,1,2021,biden-era,True,Democrat,Establishment,45,"The tweet's focus on committee work and institutional accomplishment suggests an establishment orientation, but insufficient partisan content limits confidence in determining leaning.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's focus on committee work and institutional accomplishment suggests an establishment orientation, but insufficient partisan content limits confidence in determining leaning.""
+}",False
+2021-05-17 19:44:50,Sen_JoeManchin,"Inaction is not an option. Congress must come together just as we have done time and again to reaffirm our longstanding bipartisan commitment to free, accessible, and secure elections for all by reauthorizing the #VotingRightsAct in a bipartisan manner",Democrat,1,2021,biden-era,True,Democrat,Establishment,75,"Emphasis on voting rights protection and the Voting Rights Act, which are core Democratic priorities, though the call for bipartisanship suggests establishment-oriented consensus-building rather than populist confrontation.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""Emphasis on voting rights protection and the Voting Rights Act, which are core Democratic priorities, though the call for bipartisanship suggests establishment-oriented consensus-building rather than populist confrontation.""
+}",False
+2022-10-17 13:33:18,RepGallagher,"Rep. Gallagher: ""As the President is going all over the world begging for oil, he's not going to domestic producers…",Republican,0,2022,biden-era,False,Republican,Populist,85,"The tweet criticizes the President's energy policy by accusing him of ignoring domestic oil producers, a populist critique that favors American industry and workers over international alternatives.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes the President's energy policy by accusing him of ignoring domestic oil producers, a populist critique that favors American industry and workers over international alternatives.""
+}",False
+2022-12-08 21:04:06,RepKweisiMfume,"Thank you  for bringing more than four decades of your  columns to life in the one act, on…",Democrat,1,2022,biden-era,False,Democrat,Establishment,35,"The tweet appears to be about a cultural or arts event rather than partisan political content, making classification difficult with low confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 35,
+  ""reasoning"": ""The tweet appears to be about a cultural or arts event rather than partisan political content, making classification difficult with low confidence.""
+}",False
+2022-12-20 00:29:35,RepSylviaGarcia,"Make sure to keep up with the latest weather updates, and please stay prepared this holiday season!",Democrat,1,2022,biden-era,False,Republican,Establishment,45,"The generic, non-partisan nature of the tweet about weather preparedness is slightly more consistent with establishment Republican senators' tendency toward bland, non-controversial messaging, but confidence is low due to lack of distinguishing political content.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The generic, non-partisan nature of the tweet about weather preparedness is slightly more consistent with establishment Republican senators' tendency toward bland, non-controversial messaging, but confidence is low due to lack of distinguishing political content.""
+}",False
+2021-06-08 17:39:06,SenatorCardin,"I thank  for this critical, timely investment that will increase MD's capacity to service the regions veterans and transitioning servicemembers. Support for our service men and  women must stay strong when they are uniform and when they transition to civilian life. #smallbiz",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"The tweet emphasizes bipartisan support for veterans' services and infrastructure investment, characteristic of establishment Democrats who highlight government programs and cross-party collaboration.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet emphasizes bipartisan support for veterans' services and infrastructure investment, characteristic of establishment Democrats who highlight government programs and cross-party collaboration.""
+}",False
+2022-05-13 16:01:17,RepGregoryMeeks,"During #AAPIHeritageMonth, while we uplift, support, and celebrate the many contributions of Asian Americans and Pa…",Democrat,1,2022,biden-era,False,Democrat,Establishment,72,"The tweet celebrates Asian American and Pacific Islander heritage during designated heritage month, reflecting Democratic emphasis on inclusive identity politics and celebration of diverse communities.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet celebrates Asian American and Pacific Islander heritage during designated heritage month, reflecting Democratic emphasis on inclusive identity politics and celebration of diverse communities.""
+}",False
+2021-09-30 19:17:06,SenGillibrand,We can't wait to see everyone back again at the  on October th! The Members team is better than ever the #BadNewsBabes better watch out!  you're always welcome to join us! #BeatPress #BeatCancer,Democrat,1,2021,biden-era,False,Republican,Establishment,45,"The tweet's casual, social tone and focus on a sports/charitable event lacks distinctive partisan messaging, but the informal language and 'beat the press' framing slightly align with Republican communication style.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet's casual, social tone and focus on a sports/charitable event lacks distinctive partisan messaging, but the informal language and 'beat the press' framing slightly align with Republican communication style.""
+}",False
+2021-07-27 16:58:27,SenAngusKing,"Mike Enzi was a dedicated public servant, a relentless advocate for Wyoming, and an eternal believer in calm bipartisanship. He followed the -20 ruleset aside the % where you disagree and work within the % where agreement can be found.",Democrat,1,2021,biden-era,True,Republican,Establishment,75,"The tweet praises Mike Enzi, a longtime Republican Senator from Wyoming, using language that emphasizes bipartisanship and traditional institutional values characteristic of establishment Republicans.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet praises Mike Enzi, a longtime Republican Senator from Wyoming, using language that emphasizes bipartisanship and traditional institutional values characteristic of establishment Republicans.""
+}",False
+2023-02-04 15:30:00,RepKatCammack,We’re accepting applications for book drops at #FL03 schools as part of our Congressional “Read to Lead” program! I…,Republican,0,2023,biden-era,False,Republican,Establishment,65,"The tweet focuses on a local constituent service initiative (book drops in schools) with a positive, non-partisan message, which is typical of establishment Republicans emphasizing practical community programs rather than ideological positions.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""The tweet focuses on a local constituent service initiative (book drops in schools) with a positive, non-partisan message, which is typical of establishment Republicans emphasizing practical community programs rather than ideological positions.""
+}",False
+2021-11-29 01:12:00,lisamurkowski,"#OnlyinAlaska: Folks in Cooper Landing and  Moose Pass participated in their annual Woodpile Contest. The winners are chosen based on organization and  stacking, quantity, safety, creativity, and much more. A unique Alaska contest!",Republican,0,2021,biden-era,True,Republican,Establishment,72,"The tweet highlights a local Alaska community event with positive framing, consistent with Republican senators' emphasis on constituent engagement and local Americana traditions.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet highlights a local Alaska community event with positive framing, consistent with Republican senators' emphasis on constituent engagement and local Americana traditions.""
+}",False
+2021-10-08 21:38:00,RoyBlunt,"Telehealth has been a lifeline for many people throughout the pandemic. At a Commerce Committee hearing this week, I asked the panel to weigh in on how we can make telehealth more accessible:",Republican,0,2021,biden-era,False,Democrat,Establishment,72,"Focus on pandemic-related healthcare accessibility through telehealth reflects progressive Democratic healthcare policy priorities, expressed through formal committee work rather than populist messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on pandemic-related healthcare accessibility through telehealth reflects progressive Democratic healthcare policy priorities, expressed through formal committee work rather than populist messaging.""
+}",False
+2022-06-02 20:13:37,MarioDB,"(1/2) Como dije cuando estos cambios se anunciaron por primera vez el mes pasado, aumentar los ingresos del régimen…",Republican,0,2022,biden-era,False,Democrat,Establishment,45,"The tweet is in Spanish discussing tax/revenue policy with measured tone, suggesting a pragmatic establishment Democrat, though limited context reduces confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet is in Spanish discussing tax/revenue policy with measured tone, suggesting a pragmatic establishment Democrat, though limited context reduces confidence.""
+}",False
+2021-09-02 19:10:13,SenTuberville,"They continue to positively contribute to the Clay County community, and the greater East Alabama region, by providing high-quality jobs and fueling our economic growth.",Republican,0,2021,biden-era,False,Republican,Establishment,65,"Focus on local economic growth and business contributions reflects typical Republican messaging about free enterprise and community prosperity, though the moderate tone and lack of partisan rhetoric suggests establishment rather than populist positioning.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Focus on local economic growth and business contributions reflects typical Republican messaging about free enterprise and community prosperity, though the moderate tone and lack of partisan rhetoric suggests establishment rather than populist positioning.""
+}",False
+2022-12-14 21:40:30,RepDianaDeGette,"It’s been nearly one month since the tragic shooting at Club Q.
+
+Today, I’m leading a resolution with 115 of my col…",Democrat,1,2022,biden-era,False,Democrat,Establishment,75,"The focus on gun violence and mass shootings with bipartisan coalition-building reflects typical Democratic advocacy on this issue, though the incomplete nature of the tweet limits certainty.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The focus on gun violence and mass shootings with bipartisan coalition-building reflects typical Democratic advocacy on this issue, though the incomplete nature of the tweet limits certainty.""
+}",False
+2023-01-25 15:20:14,RepEricBurlison,The Repeal the NFA Act will strip the ATF of its authority to criminalize lawful gun owners and undo nearly 90 year…,Republican,0,2023,biden-era,False,Republican,Populist,92,"The tweet advocates for repealing a major gun regulation and criticizes the ATF, which aligns with libertarian/populist Republican opposition to federal gun control and bureaucratic overreach.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet advocates for repealing a major gun regulation and criticizes the ATF, which aligns with libertarian/populist Republican opposition to federal gun control and bureaucratic overreach.""
+}",False
+2021-12-03 16:53:19,HawleyMO,Disastrous jobs numbers. Joe Bidens policies are driving inflation sky high and keeping Americans from finding good work,Republican,0,2021,biden-era,True,Republican,Populist,92,"The tweet criticizes Biden's economic policies using populist language about inflation and job losses, consistent with Republican messaging against the administration.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes Biden's economic policies using populist language about inflation and job losses, consistent with Republican messaging against the administration.""
+}",False
+2021-08-30 19:27:00,MarkWarner,"Remnants of Hurricane Ida are set to bring heavy rain and strong winds across central Virginia tomorrow. Its my hope Virginia is spared from the worst of this storm, but weve got to be ready for anything. The time to prepare is now.",Democrat,1,2021,biden-era,False,Democrat,Establishment,45,"The tweet focuses on disaster preparedness and public safety without partisan language, making it difficult to classify with high confidence, though the proactive government response framing is slightly more characteristic of Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet focuses on disaster preparedness and public safety without partisan language, making it difficult to classify with high confidence, though the proactive government response framing is slightly more characteristic of Democratic messaging.""
+}",False
+2022-12-22 05:06:20,RepSylviaGarcia,"Another win! 
+
+My bill the Energy Security and Lightering Independence Act passed the House. 
+
+Now it will be headi…",Democrat,1,2022,biden-era,False,Republican,Establishment,72,Focus on passing legislation through conventional legislative process and emphasis on energy independence suggests establishment Republican priorities.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on passing legislation through conventional legislative process and emphasis on energy independence suggests establishment Republican priorities.""
+}",False
+2021-05-26 14:38:37,marcorubio,"Help us, God our savior,on account of the glory of your name. Deliver us, pardon our sins for your names sake. Psalms :9",Republican,0,2021,biden-era,False,Republican,Establishment,65,"Religious scripture posting is more commonly associated with Republican senators, though the tweet itself is non-partisan and lacks strong ideological markers.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 65,
+  ""reasoning"": ""Religious scripture posting is more commonly associated with Republican senators, though the tweet itself is non-partisan and lacks strong ideological markers.""
+}",False
+2023-02-07 22:00:44,RepDonaldsPress,One month into our majority and the  Conference is united and delivering for the American people under the…,Republican,0,2023,biden-era,False,Republican,Establishment,75,"The tweet celebrates the Republican majority ('our majority') and frames legislative action as 'delivering for the American people,' using establishment-friendly language about party unity and governance.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet celebrates the Republican majority ('our majority') and frames legislative action as 'delivering for the American people,' using establishment-friendly language about party unity and governance.""
+}",False
+2021-07-21 21:23:57,senrobportman,"Passing this historic infrastructure agreement wont just modernize and  upgrade our roads, bridges, ports and  other key infrastructure assets, it will lay the groundwork for long-term economic growth and prosperity.",Republican,0,2021,biden-era,False,Democrat,Establishment,72,"Support for infrastructure investment and emphasis on economic growth aligns with Democratic establishment priorities, though the moderate, bipartisan framing suggests a more establishment-oriented approach.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Support for infrastructure investment and emphasis on economic growth aligns with Democratic establishment priorities, though the moderate, bipartisan framing suggests a more establishment-oriented approach.""
+}",False
+2019-04-22 22:03:06,RepHalRogers,Honored to join Operation UNITE ago kicked off the 8th National Rx Drug Abuse and Heroin Summit with a record crowd…,Republican,0,2019,trump-era-late,False,Republican,Establishment,72,"Focus on Operation UNITE, a law enforcement-led initiative supporting substance abuse prevention, reflects Republican emphasis on traditional public health infrastructure and community partnerships.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on Operation UNITE, a law enforcement-led initiative supporting substance abuse prevention, reflects Republican emphasis on traditional public health infrastructure and community partnerships.""
+}",False
+2021-10-26 23:38:07,SenBlumenthal,"These dangerous self-reinforcing and  perpetuating vortexes ofcontent are easy to fall into. My office and  I did our own research.After just a few hrs of watching weight loss and  eating disorder content on YouTube, our homepage almost exclusively recommended these types of videos.2/",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,"Focus on social media regulation and consumer protection aligns with typical Democratic policy priorities, particularly from establishment-oriented senators concerned with platform accountability.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on social media regulation and consumer protection aligns with typical Democratic policy priorities, particularly from establishment-oriented senators concerned with platform accountability.""
+}",False
+2023-02-13 21:02:00,RepEricBurlison,"I'm a proud cosponsor of  bill (H.R. 899) to eliminate the Department of Education.
+
+Education sh…",Republican,0,2023,biden-era,False,Republican,Populist,92,Cosponsoring legislation to eliminate the Department of Education is a signature populist Republican position that appeals to conservative base voters skeptical of federal government overreach.,"{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Cosponsoring legislation to eliminate the Department of Education is a signature populist Republican position that appeals to conservative base voters skeptical of federal government overreach.""
+}",False
+2022-10-01 19:30:00,RepDanKildee,"Michigan put the world on wheels a century ago. A lot has changed since then, but Michigan workers remain the best…",Democrat,1,2022,biden-era,False,Democrat,Populist,72,Focus on Michigan workers and labor heritage reflects populist Democratic messaging emphasizing working-class interests and regional industrial identity.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on Michigan workers and labor heritage reflects populist Democratic messaging emphasizing working-class interests and regional industrial identity.""
+}",False
+2021-07-12 20:06:22,SenSanders,"As a result of the American Rescue Plan passed several months ago by Congress and signed into law by President Biden, bold action will be taken to cut childhood poverty in half and make it easier for moms, dads, and caregivers to raise their children.",Democrat,1,2021,biden-era,True,Democrat,Establishment,95,"The tweet celebrates a Democratic legislative achievement (American Rescue Plan) and emphasizes its positive social outcomes, reflecting establishment Democratic messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 95,
+  ""reasoning"": ""The tweet celebrates a Democratic legislative achievement (American Rescue Plan) and emphasizes its positive social outcomes, reflecting establishment Democratic messaging.""
+}",False
+2023-02-08 02:43:52,RepSaraJacobs,Social Security and Medicare are a lifeline for millions of seniors — and I’ll always fight to protect them.,Democrat,1,2023,biden-era,False,Democrat,Populist,72,Emphasis on protecting Social Security and Medicare for seniors reflects traditional Democratic messaging prioritizing social safety nets and working-class interests.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Emphasis on protecting Social Security and Medicare for seniors reflects traditional Democratic messaging prioritizing social safety nets and working-class interests.""
+}",False
+2021-04-29 19:09:39,SenSanders,"I want to hear. I want to see. I want to be able to eat and smile. Its time to expand Medicare to cover vision, hearing and dental care.",Democrat,1,2021,biden-era,True,Democrat,Populist,92,"Advocates for expanding Medicare benefits to cover vision, hearing, and dental care, reflecting progressive social welfare expansion consistent with Democratic populist messaging.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""Advocates for expanding Medicare benefits to cover vision, hearing, and dental care, reflecting progressive social welfare expansion consistent with Democratic populist messaging.""
+}",False
+2021-06-21 13:22:14,SenSherrodBrown,Going live with  for Child Tax Credit Awareness Day in ten minutes. Tune in!,Democrat,1,2021,biden-era,True,Democrat,Populist,72,"Focus on child tax credit and family assistance programs is a Democratic policy priority, particularly associated with populist Democrats advocating for direct financial support to working families.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on child tax credit and family assistance programs is a Democratic policy priority, particularly associated with populist Democrats advocating for direct financial support to working families.""
+}",False
+2022-07-13 16:29:04,RepRalphNorman,The expenses associated with raising a child begin months before birth. So I'm proud to co-sponsor,Republican,0,2022,biden-era,False,Democrat,Populist,85,Focus on child-rearing expenses and co-sponsorship of social support legislation aligns with Democratic priorities for family assistance and economic support for working families.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""Focus on child-rearing expenses and co-sponsorship of social support legislation aligns with Democratic priorities for family assistance and economic support for working families.""
+}",False
+2021-12-17 00:49:19,lisamurkowski,"In Alaska, there is an ongoing crisis of violence affecting women, children, and families. Supporting victims and addressing gaps in our justice system is a top priority of mine.",Republican,0,2021,biden-era,True,Democrat,Establishment,72,"Focus on social justice, victim support, and systemic reform aligns with Democratic priorities, while the measured, institutional tone suggests establishment rather than populist approach.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""Focus on social justice, victim support, and systemic reform aligns with Democratic priorities, while the measured, institutional tone suggests establishment rather than populist approach.""
+}",False
+2021-04-14 16:55:10,SenMarkey,"On this historically significant day for Sikhs, I'm wishing our Sikh American friends a happy #Vaisakhi.",Democrat,1,2021,biden-era,False,Democrat,Establishment,72,The tweet celebrates a religious minority holiday and uses inclusive language typical of Democrats who emphasize diversity and multicultural recognition.,"{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 72,
+  ""reasoning"": ""The tweet celebrates a religious minority holiday and uses inclusive language typical of Democrats who emphasize diversity and multicultural recognition.""
+}",False
+2022-10-14 18:18:24,RepTimBurchett,"This morning I met with delegates from Uzbekistan with the Open World Rule of Law Program, hosted by Friendship For…",Republican,0,2022,biden-era,False,Republican,Establishment,45,"The tweet describes a routine diplomatic meeting and cultural exchange program, which is characteristic of establishment-oriented senators from either party, but the formal tone and international relations focus slightly suggests Republican establishment politics.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet describes a routine diplomatic meeting and cultural exchange program, which is characteristic of establishment-oriented senators from either party, but the formal tone and international relations focus slightly suggests Republican establishment politics.""
+}",False
+2021-04-08 22:21:52,SenJeffMerkley,"Polling shows % of voters want action to improve infrastructure now. And before negotiations even begin, McConnell shuts them down. The Senate GOP may not be onboardbut Americans are. Lets go big and deliver for the American people.",Democrat,1,2021,biden-era,False,Democrat,Populist,85,"The tweet criticizes Republican leadership (McConnell), appeals to popular support for infrastructure spending, and advocates for bold government action to help Americans.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Populist"",
+  ""confidence"": 85,
+  ""reasoning"": ""The tweet criticizes Republican leadership (McConnell), appeals to popular support for infrastructure spending, and advocates for bold government action to help Americans.""
+}",False
+2021-04-14 19:52:08,SenatorHagerty,GOP senators accuse Colin Kahl of tweeting classified information |  |,Republican,0,2021,biden-era,False,Democrat,Establishment,75,"The tweet appears to defend Colin Kahl against GOP accusations, using news framing that questions the legitimacy of Republican attacks on a Democratic nominee.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 75,
+  ""reasoning"": ""The tweet appears to defend Colin Kahl against GOP accusations, using news framing that questions the legitimacy of Republican attacks on a Democratic nominee.""
+}",False
+2021-02-26 19:00:16,RonWyden,"Today, thanks to  Biden and DNI Haines, America is sending the message that this lawlessness wont stand. There is still far more to do to ensure that Saudi Arabia follows international laws. I look forward to working with the Biden Administration to hold it accountable.",Democrat,1,2021,biden-era,False,Democrat,Establishment,85,"Praises Biden administration's foreign policy response to Saudi Arabia, focusing on international accountability and rule of law in a manner consistent with Democratic approaches to human rights.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 85,
+  ""reasoning"": ""Praises Biden administration's foreign policy response to Saudi Arabia, focusing on international accountability and rule of law in a manner consistent with Democratic approaches to human rights.""
+}",False
+2021-12-03 20:18:03,SenWhitehouse,th annual #EEODayRI is in the books! Its been a productive day. Thanks to everyone who participated at home!,Democrat,1,2021,biden-era,False,Democrat,Establishment,45,"The tweet mentions Equal Employment Opportunity Day, a progressive-leaning policy focus, but lacks sufficient partisan markers to classify with high confidence.","{
+  ""leaning"": ""Democrat"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet mentions Equal Employment Opportunity Day, a progressive-leaning policy focus, but lacks sufficient partisan markers to classify with high confidence.""
+}",False
+2021-04-05 13:04:17,LeaderMcConnell,Our private sector must stop taking cues from the Outrage-Industrial Complex. Americans do not need or want big business to amplify disinformation or react to every manufactured controversy with frantic left-wing signaling. My full statement:,Republican,0,2021,biden-era,False,Republican,Populist,92,"The tweet criticizes corporate wokeness and the 'Outrage-Industrial Complex,' using populist language to attack perceived left-wing activism in the private sector, which are characteristic Republican populist themes.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Populist"",
+  ""confidence"": 92,
+  ""reasoning"": ""The tweet criticizes corporate wokeness and the 'Outrage-Industrial Complex,' using populist language to attack perceived left-wing activism in the private sector, which are characteristic Republican populist themes.""
+}",False
+2021-09-15 20:47:47,SenJohnHoeven,"Last month, servicemembers gave this nation their last full measure of devotion. Ive joined my colleagues in introducing legislation to award these American heroes Congressional Gold Medals to commemorate their service.",Republican,0,2021,biden-era,False,Republican,Establishment,45,"The tweet focuses on military honors and commemorating fallen servicemembers, which is bipartisan, but the formal legislative approach and emphasis on honoring military sacrifice aligns slightly more with Republican messaging priorities.","{
+  ""leaning"": ""Republican"",
+  ""stance"": ""Establishment"",
+  ""confidence"": 45,
+  ""reasoning"": ""The tweet focuses on military honors and commemorating fallen servicemembers, which is bipartisan, but the formal legislative approach and emphasis on honoring military sacrifice aligns slightly more with Republican messaging priorities.""
+}",False

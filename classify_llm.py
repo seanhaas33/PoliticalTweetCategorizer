@@ -25,12 +25,11 @@ Output columns added to the original test CSV:
   raw_response   — full raw text returned by API (for debugging)
   parse_error    — True if the JSON response couldn't be parsed
 """
-
+import pandas as pd
 import os
 import json
 import time
 import argparse
-import pandas as pd
 import anthropic
 
 from prompts import SYSTEM_PROMPT, build_zero_shot_prompt, build_few_shot_prompt
@@ -38,7 +37,7 @@ from prompts import SYSTEM_PROMPT, build_zero_shot_prompt, build_few_shot_prompt
 # ---------------------------------------------------------------------------
 # CONFIG — adjust these if needed
 # ---------------------------------------------------------------------------
-MODEL          = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 MAX_TOKENS     = 300       # enough for the JSON response, not wasteful
 RETRY_LIMIT    = 3         # how many times to retry a failed API call
 RETRY_DELAY    = 5         # seconds to wait between retries

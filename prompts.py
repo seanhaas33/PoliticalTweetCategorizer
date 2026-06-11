@@ -1,3 +1,5 @@
+import pandas as pd
+
 """
 prompts.py — All LLM prompt logic in one place.
 
@@ -22,36 +24,45 @@ The model is expected to return ONLY valid JSON — no extra text.
 #   4. Strict JSON-only output so parsing never breaks.
 # ---------------------------------------------------------------------------
 
-SYSTEM_PROMPT = """You are an expert political rhetoric classifier.
+# SYSTEM_PROMPT = """You are an expert political rhetoric classifier.
 
-You will be given a single tweet written by a U.S. Senator. Your job is to classify it along two dimensions:
+# You will be given a single tweet written by a U.S. Senator. Your job is to classify it along two dimensions:
 
-DIMENSION 1 — Political Leaning
-  Choose exactly one: "Democrat" or "Republican"
-  Base this on the rhetorical framing, policy positions, and messaging style present in the tweet.
+# DIMENSION 1 — Political Leaning
+#   Choose exactly one: "Democrat" or "Republican"
+#   Base this on the rhetorical framing, policy positions, and messaging style present in the tweet.
 
-DIMENSION 2 — Establishment Stance
-  Choose exactly one: "Populist" or "Establishment"
-  - Populist: attacks elites, institutions, or the system; appeals to "the people" vs. a corrupt class
-  - Establishment: defends institutions, norms, or incremental policy; avoids anti-elite framing
+# DIMENSION 2 — Establishment Stance
+#   Choose exactly one: "Populist" or "Establishment"
+#   - Populist: attacks elites, institutions, or the system; appeals to "the people" vs. a corrupt class
+#   - Establishment: defends institutions, norms, or incremental policy; avoids anti-elite framing
 
-Also provide:
-  - confidence: an integer from 0 to 100 reflecting how certain you are about DIMENSION 1
-  - reasoning: one sentence explaining the key signals that drove your classification
+# Also provide:
+#   - confidence: an integer from 0 to 100 reflecting how certain you are about DIMENSION 1
+#   - reasoning: one sentence explaining the key signals that drove your classification
 
-IMPORTANT RULES:
-  - Respond ONLY with a valid JSON object. No preamble, no explanation outside the JSON.
-  - Do not let the senator's name or known affiliation influence you — classify the TEXT only.
-  - If the tweet is ambiguous, still commit to the most likely label and lower your confidence score.
+# IMPORTANT RULES:
+#   - Respond ONLY with a valid JSON object. No preamble, no explanation outside the JSON.
+#   - Do not let the senator's name or known affiliation influence you — classify the TEXT only.
+#   - If the tweet is ambiguous, still commit to the most likely label and lower your confidence score.
 
-Required output format (copy exactly, fill in values):
+# Required output format (copy exactly, fill in values):
+# {
+#   "leaning": "Democrat",
+#   "stance": "Populist",
+#   "confidence": 85,
+#   "reasoning": "The tweet frames economic hardship as caused by corporate greed, a classic left-populist framing."
+# }"""
+
+SYSTEM_PROMPT = """You are a political tweet classifier. Classify the tweet by a U.S. Senator.
+
+Respond ONLY with valid JSON, no other text:
 {
-  "leaning": "Democrat",
-  "stance": "Populist",
-  "confidence": 85,
-  "reasoning": "The tweet frames economic hardship as caused by corporate greed, a classic left-populist framing."
+  "leaning": "Democrat" or "Republican",
+  "stance": "Populist" or "Establishment",
+  "confidence": 0-100,
+  "reasoning": "one sentence"
 }"""
-
 
 # ---------------------------------------------------------------------------
 # FEW-SHOT EXAMPLE BUILDER
